@@ -121,6 +121,119 @@ def test_no_category_route_and_no_keyword_excluded():
     assert not d.include
 
 
+def test_plain_rice_excluded_despite_category_fallback():
+    # Real: se coló vía el fallback de categoría en una corrida real
+    # (~150 productos de arroz/frijol/lenteja simples en "Granos y
+    # semillas"). No es botana aunque el retailer lo categorice ahí.
+    d = classify("Arroz Chedraui Grano Largo 2.5 Kg", discovery_routes=["categoria"])
+    assert not d.include
+
+
+def test_puffed_rice_snack_still_included():
+    d = classify("Botana Bournon Arroz Inflado Queso 81 Gr")
+    assert d.include
+
+
+def test_plain_beans_and_lentils_excluded():
+    assert not classify("Frijol Negro Chedraui 900g", discovery_routes=["categoria"]).include
+    assert not classify("Lenteja Chedraui 450g", discovery_routes=["categoria"]).include
+
+
+def test_spicy_garbanzo_included_plain_garbanzo_excluded():
+    assert classify("Garbanzo Enchilado kg").include
+    assert not classify("Garbanzo La Merced 500g", discovery_routes=["categoria"]).include
+
+
+def test_raw_popcorn_kernels_excluded_not_ready_to_eat():
+    # Real: se coló porque no contenía "semilla" (el filtro anterior solo
+    # lo cachaba en ese caso). Maíz palomero crudo = ingrediente, no botana.
+    assert not classify("Maíz Palomero Schettino Verde 500g", discovery_routes=["categoria"]).include
+
+
+def test_birdseed_excluded():
+    assert not classify("Alpiste Norver de 500g", discovery_routes=["categoria"]).include
+
+
+def test_accented_frijol_variant_also_excluded():
+    # Real: typo del propio catálogo de Chedraui ("Frijól" con acento) que
+    # el regex sin variante acentuada no capturaba.
+    assert not classify("Frijól Negro De La Reyna 700g", discovery_routes=["categoria"]).include
+
+
+def test_dog_treats_excluded_despite_literal_botana_in_name():
+    # Real: "Botana" en español también se usa para snacks de mascota —
+    # Purina/Dog Chow lo usa literalmente en el nombre del producto.
+    assert not classify("Botana Dog Chow Carn Res Poll Salmón").include
+
+
+def test_refried_beans_excluded_despite_chicharron_flavor_word():
+    # Real: "con Chicharrón" es sabor de un platillo enlatado de frijol,
+    # no un chicharrón botanero — el include_kw 'chicharr' lo colaba.
+    assert not classify("Frijoles Refritos Isadora con Chicharrón 430g", discovery_routes=["categoria"]).include
+
+
+def test_fried_tomato_sauce_base_excluded():
+    assert not classify("Tomates Fritos Caseros LaCuna 560 g", discovery_routes=["categoria"]).include
+
+
+def test_chicken_nuggets_not_real_popcorn_excluded():
+    assert not classify("Palomitas de Pollo Del Día con Salsas Negras 500g", discovery_routes=["categoria"]).include
+
+
+def test_french_fry_cut_potatoes_excluded():
+    assert not classify("Papas a la Francesa Corte Delgado Valley Farms 1Kg", discovery_routes=["categoria"]).include
+
+
+def test_real_snack_brand_a_la_francesa_style_stays_included():
+    # Real: se excluyó por error en una primera pasada — "a la francesa"
+    # sin más contexto no basta, esto es un chip real de una marca de
+    # botana conocida (Totis), no papa cruda para freír en casa.
+    assert classify("Papas Totis Pap's a la Francesa Hot Chili de 70g").include
+
+
+def test_alubia_beans_excluded():
+    assert not classify("Alubia La Merced 500g", discovery_routes=["categoria"]).include
+
+
+def test_truncated_chocolate_still_excluded():
+    # Real: el propio catálogo de Chedraui trunca "Chocolate" a "Chocola"
+    # en al menos un producto — el check original solo miraba la palabra
+    # completa.
+    assert not classify("Platano Dayrise Cubierta Chocola 90g", discovery_routes=["categoria"]).include
+
+
+def test_grain_and_pantry_imports_excluded():
+    for name in [
+        "Cous Cous Tipiak Natural 250g",
+        "Boulgour Tipiak Precocido 500g",
+        "Risotto Cascina Belvedere Espárragos 250g",
+        "Basmati Pereg Rice White Gourmet 454g",
+        "Elotitos Tiernos San Miguel 220g",
+    ]:
+        assert not classify(name, discovery_routes=["categoria"]).include
+
+
+def test_pickles_excluded():
+    assert not classify("Pepinillo Van Holtens Jumbo Ajo 209g", discovery_routes=["categoria"]).include
+
+
+def test_pickle_flavored_snacks_stay_included():
+    # Real: se excluyeron por error en una limpieza manual de la base —
+    # "pepinillo" como SABOR de un chip/palomita real no es lo mismo que
+    # el producto siendo pepinillos encurtidos.
+    assert classify("Snack Wavers Pepinillo Picante 127 g").include
+    assert classify("Papas Pringles Pepinillo Ranch 155g").include
+    assert classify("Palomitas Khloud Pepinillo").include
+
+
+def test_category_amplia_route_never_gets_fallback_trust():
+    # A diferencia de "categoria", "categoria_amplia" (categorías
+    # ruidosas como Granos y semillas) nunca activa el fallback de
+    # confianza — un nombre ambiguo sin keyword propia se excluye.
+    d = classify("Producto Ambiguo Sin Keyword 500g", discovery_routes=["categoria_amplia"])
+    assert not d.include
+
+
 def test_bulk_chicharron_included_despite_internal_brand_label():
     # Se excluyó por error al probar una regla basada en la marca interna
     # "Productos Frescos" — esa marca también cubre chicharrón/nueces a

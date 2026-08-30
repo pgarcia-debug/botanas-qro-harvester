@@ -298,6 +298,14 @@ async def discover(
         products = await _search_all(client, budget, base, {"fq": f"C:{cat_path}"}, stats=stats)
         _record(products, "categoria")
 
+    for cat_path in config.category_paths_wide:
+        # Categorías ruidosas: se buscan para no perder cobertura, pero
+        # con una ruta distinta a "categoria" a propósito — así
+        # scope_filter.classify() NUNCA les aplica el fallback de
+        # confianza (ver core/config.py).
+        products = await _search_all(client, budget, base, {"fq": f"C:{cat_path}"}, stats=stats)
+        _record(products, "categoria_amplia")
+
     for brand in config.brand_seed:
         products = await _search_all(client, budget, base, {"ft": brand}, max_pages=10, stats=stats)
         _record(products, "marca")

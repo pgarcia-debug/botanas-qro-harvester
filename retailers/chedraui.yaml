@@ -18,7 +18,14 @@ postal_code: "76000"
 category_paths:
   - "/1/107/10710/"   # Botanas y frutos secos (despensa)
   - "/1/111/11104/"   # Botanas (a granel)
-  - "/1/107/10736/"   # Granos y semillas — MUY ruidosa, se filtra agresivo en core/scope_filter.py
+
+# Categorías ruidosas: se recorren para no perder cobertura, pero un SKU
+# encontrado SOLO aquí no se incluye por default — tiene que matchear una
+# keyword real (ver core/scope_filter.py). Se separó de category_paths
+# tras encontrar ~220 productos de arroz/frijol/lenteja/garbanzo/maíz
+# palomero/alpiste colados como "botana" en una corrida real.
+category_paths_wide:
+  - "/1/107/10736/"   # Granos y semillas
 
 brand_seed:
   - Sabritas

@@ -27,7 +27,18 @@ class RetailerConfig(BaseModel):
     # --- Descubrimiento de categoría (Fase 3) ---
     category_paths: list[str] = Field(default_factory=list)
     """Rutas completas de categoría VTEX (fq=C:<path>), p.ej.
-    "/1/107/10710/" — NO el id de hoja solo, ver hallazgo de Fase 3."""
+    "/1/107/10710/" — NO el id de hoja solo, ver hallazgo de Fase 3.
+    Estas categorías son "de confianza": si scope_filter no reconoce
+    ninguna keyword en el nombre pero el SKU vino de aquí, se incluye por
+    default (ver core/scope_filter.py, regla de fallback)."""
+    category_paths_wide: list[str] = Field(default_factory=list)
+    """Categorías amplias/ruidosas que SÍ se recorren para no perder
+    cobertura, pero NUNCA activan el fallback de confianza de
+    scope_filter — un SKU de aquí solo se incluye si matchea una keyword
+    o regla positiva explícita. Ver hallazgo real: la categoría "Granos y
+    semillas" de Chedraui coló ~220 productos de arroz/frijol/lenteja/
+    maíz palomero/alpiste como "botana" antes de separarla de
+    category_paths."""
     brand_seed: list[str] = Field(default_factory=list)
     generic_terms: list[str] = Field(default_factory=list)
 
