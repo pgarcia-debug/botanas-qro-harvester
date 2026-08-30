@@ -1,0 +1,42 @@
+name: Harvest botanas QRO
+
+on:
+  schedule:
+    # 06:00 America/Mexico_City = 12:00 UTC. México abolió el horario de
+    # verano a nivel nacional en 2022 — CST (UTC-6) todo el año, no hace
+    # falta ajustar el cron por temporada.
+    - cron: "0 12 * * *"
+  workflow_dispatch:
+    inputs:
+      retailer:
+        description: "Nombre del YAML en retailers/ (sin extensión) — vacío corre todos los activos"
+        required: false
+        default: ""
+
+jobs:
+  harvest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalar dependencias
+        run: pip install -r requirements.txt
+
+      - name: Correr harvester
+        env:
+          DATABASE_URL: ${{ secrets.DATABASE_URL }}
+        run: |
+          if [ -n "${{ github.event.inputs.retailer }}" ]; then
+            python run.py --retailer "${{ github.event.inputs.retailer }}"
+          else
+            python run.py
+          fi
+        # Sin continue-on-error: si run.py sale con exit != 0 (guarda de
+        # calidad fallida o excepción), el job debe fallar visiblemente —
+        # ver CLAUDE.md, "fallar ruidosamente" es el requisito más
+        # importante de esta fase.

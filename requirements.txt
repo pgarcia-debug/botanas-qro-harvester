@@ -1,0 +1,6 @@
+# Python 3.11+ (CLAUDE.md)
+httpx[http2]==0.28.1
+pydantic==2.13.5
+PyYAML==6.0.3
+asyncpg==0.31.0
+pytest==9.1.1

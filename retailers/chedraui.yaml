@@ -1,0 +1,71 @@
+# Chedraui — VTEX, confirmado empíricamente en Fase 1.
+# Región resuelta y validada contra el sitio real en Fase 2.
+# Categoría de botanas descubierta y curada en Fase 3.
+
+name: Chedraui
+domain: www.chedraui.com.mx
+platform: VTEX
+active: true
+
+# Fase 2: CP 76000 -> seller chedrauimx0268 (CHEDRAUI SELECTO QUERETARO
+# CENTRO SUR). sc=1 es el único sales channel real de este retailer (no
+# segmenta por trade policy, segmenta por seller/tienda).
+sales_channel: "1"
+postal_code: "76000"
+
+# Fase 3: rutas de categoría completas (departamento raíz incluido — ver
+# docs/fase3-descubrimiento-chedraui.md, el id de hoja solo NO funciona).
+category_paths:
+  - "/1/107/10710/"   # Botanas y frutos secos (despensa)
+  - "/1/111/11104/"   # Botanas (a granel)
+  - "/1/107/10736/"   # Granos y semillas — MUY ruidosa, se filtra agresivo en core/scope_filter.py
+
+brand_seed:
+  - Sabritas
+  - Doritos
+  - Cheetos
+  - Ruffles
+  - Rancheritos
+  - Fritos
+  - Tostitos
+  - Crujitos
+  - Sabritones
+  - Chips
+  - Barcel
+  - Takis
+  - Runners
+  - Golden Nuts
+  - Hot Nuts
+  - Big Mix
+  - Toreadas
+  - Bokados
+  - Encanto
+  - Totis
+  - Leo
+  - Pringles
+  - Mafer
+  - Nishikawa
+  - Karina
+  - Charras
+  - Act II
+  - Vualá
+
+generic_terms:
+  - papas fritas
+  - frituras
+  - botana
+  - cacahuate
+  - palomitas
+  - chicharron
+  - semillas
+
+rate_limit_rps: 1.0
+timeout_s: 20.0
+
+# Excepción aprobada en Fase 2/3 (ver CLAUDE.md): VTEX bloquea el
+# User-Agent identificable del proyecto tanto en checkout como en
+# catálogo/búsqueda con 429 "rate-limit-reason: bot". Se resuelve con
+# HTTP/2 + headers de navegador, aplicado a TODO el tráfico de este
+# retailer — no es una excepción por endpoint, es por retailer/plataforma.
+overrides:
+  requires_browser_like_headers: true

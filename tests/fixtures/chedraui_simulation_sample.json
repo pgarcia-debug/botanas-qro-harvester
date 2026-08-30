@@ -1,0 +1,1897 @@
+{
+ "items": [
+  {
+   "id": "3104995",
+   "requestIndex": 0,
+   "quantity": 1,
+   "seller": "1",
+   "sellerChain": [
+    "1",
+    "chedrauimx0268"
+   ],
+   "tax": 0,
+   "priceValidUntil": "2027-08-30T01:17:44Z",
+   "price": 3800,
+   "listPrice": 3800,
+   "rewardValue": 0,
+   "sellingPrice": 3800,
+   "offerings": [],
+   "priceTags": [],
+   "measurementUnit": "un",
+   "unitMultiplier": 1.0,
+   "parentItemIndex": null,
+   "parentAssemblyBinding": null,
+   "availability": "available",
+   "catalogProvider": "vrn:vtex.catalog-api-proxy:-:chedrauimx:master:/proxy/authenticated/catalog/pvt/sku/stockkeepingunitbyid/3104995",
+   "priceDefinition": {
+    "calculatedSellingPrice": 3800,
+    "total": 3800,
+    "sellingPrices": [
+     {
+      "value": 3800,
+      "quantity": 1
+     }
+    ],
+    "reason": null
+   },
+   "priceTable": null
+  },
+  {
+   "id": "3196352",
+   "requestIndex": 1,
+   "quantity": 1,
+   "seller": "1",
+   "sellerChain": [
+    "1",
+    "chedrauimx0268"
+   ],
+   "tax": 0,
+   "priceValidUntil": "2027-08-30T01:17:44Z",
+   "price": 6100,
+   "listPrice": 6100,
+   "rewardValue": 0,
+   "sellingPrice": 6100,
+   "offerings": [],
+   "priceTags": [],
+   "measurementUnit": "un",
+   "unitMultiplier": 1.0,
+   "parentItemIndex": null,
+   "parentAssemblyBinding": null,
+   "availability": "available",
+   "catalogProvider": "vrn:vtex.catalog-api-proxy:-:chedrauimx:master:/proxy/authenticated/catalog/pvt/sku/stockkeepingunitbyid/3196352",
+   "priceDefinition": {
+    "calculatedSellingPrice": 6100,
+    "total": 6100,
+    "sellingPrices": [
+     {
+      "value": 6100,
+      "quantity": 1
+     }
+    ],
+    "reason": null
+   },
+   "priceTable": null
+  },
+  {
+   "id": "3783832",
+   "requestIndex": 2,
+   "quantity": 1,
+   "seller": "1",
+   "sellerChain": [
+    "1",
+    "chedrauimx0268"
+   ],
+   "tax": 0,
+   "priceValidUntil": "2027-08-30T01:17:44Z",
+   "price": 1500,
+   "listPrice": 1500,
+   "rewardValue": 0,
+   "sellingPrice": 1500,
+   "offerings": [],
+   "priceTags": [],
+   "measurementUnit": "un",
+   "unitMultiplier": 1.0,
+   "parentItemIndex": null,
+   "parentAssemblyBinding": null,
+   "availability": "withoutStock",
+   "catalogProvider": "vrn:vtex.catalog-api-proxy:-:chedrauimx:master:/proxy/authenticated/catalog/pvt/sku/stockkeepingunitbyid/3783832",
+   "priceDefinition": {
+    "calculatedSellingPrice": 1500,
+    "total": 1500,
+    "sellingPrices": [
+     {
+      "value": 1500,
+      "quantity": 1
+     }
+    ],
+    "reason": null
+   },
+   "priceTable": null
+  }
+ ],
+ "ratesAndBenefitsData": {
+  "rateAndBenefitsIdentifiers": [],
+  "teaser": [],
+  "campaigns": []
+ },
+ "paymentData": {
+  "installmentOptions": [
+   {
+    "paymentSystem": "1",
+    "bin": null,
+    "paymentName": "American Express",
+    "paymentGroupName": "creditCardPaymentGroup",
+    "value": 9900,
+    "installments": [
+     {
+      "count": 1,
+      "hasInterestRate": false,
+      "interestRate": 0,
+      "value": 9900,
+      "total": 9900,
+      "sellerMerchantInstallments": [
+       {
+        "id": "CHEDRAUIMX",
+        "count": 1,
+        "hasInterestRate": false,
+        "interestRate": 0,
+        "value": 9900,
+        "total": 9900
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "paymentSystem": "2",
+    "bin": null,
+    "paymentName": "Visa",
+    "paymentGroupName": "creditCardPaymentGroup",
+    "value": 9900,
+    "installments": [
+     {
+      "count": 1,
+      "hasInterestRate": false,
+      "interestRate": 0,
+      "value": 9900,
+      "total": 9900,
+      "sellerMerchantInstallments": [
+       {
+        "id": "CHEDRAUIMX",
+        "count": 1,
+        "hasInterestRate": false,
+        "interestRate": 0,
+        "value": 9900,
+        "total": 9900
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "paymentSystem": "4",
+    "bin": null,
+    "paymentName": "Mastercard",
+    "paymentGroupName": "creditCardPaymentGroup",
+    "value": 9900,
+    "installments": [
+     {
+      "count": 1,
+      "hasInterestRate": false,
+      "interestRate": 0,
+      "value": 9900,
+      "total": 9900,
+      "sellerMerchantInstallments": [
+       {
+        "id": "CHEDRAUIMX",
+        "count": 1,
+        "hasInterestRate": false,
+        "interestRate": 0,
+        "value": 9900,
+        "total": 9900
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "paymentSystem": "16",
+    "bin": null,
+    "paymentName": "Vale",
+    "paymentGroupName": "giftCardPaymentGroup",
+    "value": 9900,
+    "installments": [
+     {
+      "count": 1,
+      "hasInterestRate": false,
+      "interestRate": 0,
+      "value": 9900,
+      "total": 9900,
+      "sellerMerchantInstallments": [
+       {
+        "id": "CHEDRAUIMX",
+        "count": 1,
+        "hasInterestRate": false,
+        "interestRate": 0,
+        "value": 9900,
+        "total": 9900
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "paymentSystem": "127",
+    "bin": null,
+    "paymentName": "MercadoPagoPro",
+    "paymentGroupName": "MercadoPagoProPaymentGroup",
+    "value": 9900,
+    "installments": [
+     {
+      "count": 1,
+      "hasInterestRate": false,
+      "interestRate": 0,
+      "value": 9900,
+      "total": 9900,
+      "sellerMerchantInstallments": [
+       {
+        "id": "CHEDRAUIMX",
+        "count": 1,
+        "hasInterestRate": false,
+        "interestRate": 0,
+        "value": 9900,
+        "total": 9900
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "paymentSystem": "174",
+    "bin": null,
+    "paymentName": "Aplazo Payment",
+    "paymentGroupName": "aplazoPaymentGroup",
+    "value": 9900,
+    "installments": [
+     {
+      "count": 1,
+      "hasInterestRate": false,
+      "interestRate": 0,
+      "value": 9900,
+      "total": 9900,
+      "sellerMerchantInstallments": [
+       {
+        "id": "CHEDRAUIMX",
+        "count": 1,
+        "hasInterestRate": false,
+        "interestRate": 0,
+        "value": 9900,
+        "total": 9900
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "paymentSystem": "201",
+    "bin": null,
+    "paymentName": "Pago contra entrega",
+    "paymentGroupName": "custom201PaymentGroupPaymentGroup",
+    "value": 9900,
+    "installments": [
+     {
+      "count": 1,
+      "hasInterestRate": false,
+      "interestRate": 0,
+      "value": 9900,
+      "total": 9900,
+      "sellerMerchantInstallments": [
+       {
+        "id": "CHEDRAUIMX",
+        "count": 1,
+        "hasInterestRate": false,
+        "interestRate": 0,
+        "value": 9900,
+        "total": 9900
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "paymentSystem": "204",
+    "bin": null,
+    "paymentName": "KUESKI",
+    "paymentGroupName": "custom204PaymentGroupPaymentGroup",
+    "value": 9900,
+    "installments": [
+     {
+      "count": 1,
+      "hasInterestRate": false,
+      "interestRate": 0,
+      "value": 9900,
+      "total": 9900,
+      "sellerMerchantInstallments": [
+       {
+        "id": "CHEDRAUIMX",
+        "count": 1,
+        "hasInterestRate": false,
+        "interestRate": 0,
+        "value": 9900,
+        "total": 9900
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "paymentSystem": "501",
+    "bin": null,
+    "paymentName": "Puntos BBVA",
+    "paymentGroupName": "customPrivate_501PaymentGroup",
+    "value": 9900,
+    "installments": [
+     {
+      "count": 1,
+      "hasInterestRate": false,
+      "interestRate": 0,
+      "value": 9900,
+      "total": 9900,
+      "sellerMerchantInstallments": [
+       {
+        "id": "CHEDRAUIMX",
+        "count": 1,
+        "hasInterestRate": false,
+        "interestRate": 0,
+        "value": 9900,
+        "total": 9900
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "paymentSystem": "502",
+    "bin": null,
+    "paymentName": "Vales",
+    "paymentGroupName": "customPrivate_502PaymentGroup",
+    "value": 9900,
+    "installments": [
+     {
+      "count": 1,
+      "hasInterestRate": false,
+      "interestRate": 0,
+      "value": 9900,
+      "total": 9900,
+      "sellerMerchantInstallments": [
+       {
+        "id": "CHEDRAUIMX",
+        "count": 1,
+        "hasInterestRate": false,
+        "interestRate": 0,
+        "value": 9900,
+        "total": 9900
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "paymentSystem": "708",
+    "bin": null,
+    "paymentName": "Mercado Credito",
+    "paymentGroupName": "MercadoCreditoPaymentGroup",
+    "value": 9900,
+    "installments": [
+     {
+      "count": 1,
+      "hasInterestRate": false,
+      "interestRate": 0,
+      "value": 9900,
+      "total": 9900,
+      "sellerMerchantInstallments": [
+       {
+        "id": "CHEDRAUIMX",
+        "count": 1,
+        "hasInterestRate": false,
+        "interestRate": 0,
+        "value": 9900,
+        "total": 9900
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "paymentSystem": "742",
+    "bin": null,
+    "paymentName": "PayPalCheckout",
+    "paymentGroupName": "PayPalCheckoutPaymentGroup",
+    "value": 9900,
+    "installments": [
+     {
+      "count": 1,
+      "hasInterestRate": false,
+      "interestRate": 0,
+      "value": 9900,
+      "total": 9900,
+      "sellerMerchantInstallments": [
+       {
+        "id": "CHEDRAUIMX",
+        "count": 1,
+        "hasInterestRate": false,
+        "interestRate": 0,
+        "value": 9900,
+        "total": 9900
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "paymentSystems": [
+   {
+    "id": 742,
+    "name": "PayPalCheckout",
+    "groupName": "PayPalCheckoutPaymentGroup",
+    "validator": null,
+    "stringId": "742",
+    "template": "PayPalCheckoutPaymentGroup-template",
+    "requiresDocument": false,
+    "displayDocument": false,
+    "isCustom": false,
+    "description": null,
+    "requiresAuthentication": false,
+    "dueDate": "2026-09-06T01:11:27.6374844Z",
+    "availablePayments": null
+   },
+   {
+    "id": 174,
+    "name": "Aplazo Payment",
+    "groupName": "aplazoPaymentGroup",
+    "validator": null,
+    "stringId": "174",
+    "template": "aplazoPaymentGroup-template",
+    "requiresDocument": false,
+    "displayDocument": false,
+    "isCustom": false,
+    "description": null,
+    "requiresAuthentication": false,
+    "dueDate": "2026-09-06T01:11:27.6374845Z",
+    "availablePayments": null
+   },
+   {
+    "id": 204,
+    "name": "KUESKI",
+    "groupName": "custom204PaymentGroupPaymentGroup",
+    "validator": null,
+    "stringId": "204",
+    "template": "custom204PaymentGroupPaymentGroup-template",
+    "requiresDocument": false,
+    "displayDocument": false,
+    "isCustom": true,
+    "description": "Método de pago con Kueski Pay",
+    "requiresAuthentication": false,
+    "dueDate": "2026-09-02T01:12:27.6374848Z",
+    "availablePayments": null
+   },
+   {
+    "id": 708,
+    "name": "Mercado Credito",
+    "groupName": "MercadoCreditoPaymentGroup",
+    "validator": null,
+    "stringId": "708",
+    "template": "MercadoCreditoPaymentGroup-template",
+    "requiresDocument": false,
+    "displayDocument": false,
+    "isCustom": false,
+    "description": null,
+    "requiresAuthentication": false,
+    "dueDate": "2026-09-06T01:11:27.637485Z",
+    "availablePayments": null
+   },
+   {
+    "id": 127,
+    "name": "MercadoPagoPro",
+    "groupName": "MercadoPagoProPaymentGroup",
+    "validator": null,
+    "stringId": "127",
+    "template": "MercadoPagoProPaymentGroup-template",
+    "requiresDocument": false,
+    "displayDocument": false,
+    "isCustom": false,
+    "description": null,
+    "requiresAuthentication": false,
+    "dueDate": "2026-09-06T01:11:27.6374851Z",
+    "availablePayments": null
+   },
+   {
+    "id": 502,
+    "name": "Vales",
+    "groupName": "customPrivate_502PaymentGroup",
+    "validator": null,
+    "stringId": "502",
+    "template": "customPrivate_502PaymentGroup-template",
+    "requiresDocument": false,
+    "displayDocument": true,
+    "isCustom": true,
+    "description": "Vales",
+    "requiresAuthentication": false,
+    "dueDate": "2026-09-09T01:12:27.6374853Z",
+    "availablePayments": null
+   },
+   {
+    "id": 501,
+    "name": "Puntos BBVA",
+    "groupName": "customPrivate_501PaymentGroup",
+    "validator": null,
+    "stringId": "501",
+    "template": "customPrivate_501PaymentGroup-template",
+    "requiresDocument": false,
+    "displayDocument": true,
+    "isCustom": true,
+    "description": "Puntos BBVA",
+    "requiresAuthentication": false,
+    "dueDate": "2026-09-09T01:12:27.6374854Z",
+    "availablePayments": null
+   },
+   {
+    "id": 16,
+    "name": "Vale",
+    "groupName": "giftCardPaymentGroup",
+    "validator": null,
+    "stringId": "16",
+    "template": "giftCardPaymentGroup-template",
+    "requiresDocument": false,
+    "displayDocument": true,
+    "isCustom": false,
+    "description": null,
+    "requiresAuthentication": false,
+    "dueDate": "2026-09-06T01:11:27.6374856Z",
+    "availablePayments": null
+   },
+   {
+    "id": 1,
+    "name": "American Express",
+    "groupName": "creditCardPaymentGroup",
+    "validator": null,
+    "stringId": "1",
+    "template": "creditCardPaymentGroup-template",
+    "requiresDocument": false,
+    "displayDocument": true,
+    "isCustom": false,
+    "description": null,
+    "requiresAuthentication": false,
+    "dueDate": "2026-09-06T01:11:27.6374858Z",
+    "availablePayments": null
+   },
+   {
+    "id": 2,
+    "name": "Visa",
+    "groupName": "creditCardPaymentGroup",
+    "validator": null,
+    "stringId": "2",
+    "template": "creditCardPaymentGroup-template",
+    "requiresDocument": false,
+    "displayDocument": true,
+    "isCustom": false,
+    "description": null,
+    "requiresAuthentication": false,
+    "dueDate": "2026-09-06T01:11:27.6374859Z",
+    "availablePayments": null
+   },
+   {
+    "id": 4,
+    "name": "Mastercard",
+    "groupName": "creditCardPaymentGroup",
+    "validator": null,
+    "stringId": "4",
+    "template": "creditCardPaymentGroup-template",
+    "requiresDocument": false,
+    "displayDocument": true,
+    "isCustom": false,
+    "description": null,
+    "requiresAuthentication": false,
+    "dueDate": "2026-09-06T01:11:27.6374861Z",
+    "availablePayments": null
+   },
+   {
+    "id": 201,
+    "name": "Pago contra entrega",
+    "groupName": "custom201PaymentGroupPaymentGroup",
+    "validator": null,
+    "stringId": "201",
+    "template": "custom201PaymentGroupPaymentGroup-template",
+    "requiresDocument": false,
+    "displayDocument": false,
+    "isCustom": true,
+    "description": "Pagar al recibir el pedido",
+    "requiresAuthentication": false,
+    "dueDate": "2026-09-06T01:12:27.6374864Z",
+    "availablePayments": null
+   }
+  ],
+  "payments": [],
+  "giftCards": [],
+  "giftCardMessages": [],
+  "availableAccounts": [],
+  "availableTokens": [],
+  "availableAssociations": {}
+ },
+ "selectableGifts": [],
+ "marketingData": null,
+ "postalCode": "76000",
+ "country": "MEX",
+ "logisticsInfo": [
+  {
+   "itemIndex": 0,
+   "addressId": null,
+   "selectedSla": null,
+   "selectedDeliveryChannel": null,
+   "quantity": 1,
+   "shipsTo": [
+    "MEX"
+   ],
+   "slas": [
+    {
+     "id": "RECOGER EN TIENDA - CHEDRAUI SELECTO QUERETARO CENTRO SUR (PP0268)",
+     "deliveryChannel": "pickup-in-point",
+     "name": "RECOGER EN TIENDA - CHEDRAUI SELECTO QUERETARO CENTRO SUR (PP0268)",
+     "deliveryIds": [
+      {
+       "courierId": "PU0268",
+       "warehouseId": "WH0268",
+       "dockId": "DK0268",
+       "courierName": "PICKUP R Y NR - CHEDRAUI SELECTO QUERETARO CENTRO SUR",
+       "quantity": 1,
+       "kitItemDetails": []
+      }
+     ],
+     "shippingEstimate": "0d",
+     "shippingEstimateDate": "2026-08-29T19:17:00-06:00",
+     "lockTTL": null,
+     "availableDeliveryWindows": [
+      {
+       "startDateUtc": "2026-08-30T08:00:00+00:00",
+       "endDateUtc": "2026-08-30T09:59:59+00:00",
+       "price": 0,
+       "lisPrice": 0,
+       "tax": 0
+      },
+      {
+       "startDateUtc": "2026-08-30T10:00:00+00:00",
+       "endDateUtc": "2026-08-30T11:59:59+00:00",
+       "price": 0,
+       "lisPrice": 0,
+       "tax": 0
+      },
+      {
+       "startDateUtc": "2026-08-30T12:00:00+00:00",
+       "endDateUtc": "2026-08-30T13:59:59+00:00",
+       "price": 0,
+       "lisPrice": 0,
+       "tax": 0
+      },
+      {
+       "startDateUtc": "2026-08-30T14:00:00+00:00",
+       "endDateUtc": "2026-08-30T15:59:59+00:00",
+       "price": 0,
+       "lisPrice": 0,
+       "tax": 0
+      },
+      {
+       "startDateUtc": "2026-08-30T16:00:00+00:00",
+       "endDateUtc": "2026-08-30T17:59:59+00:00",
+       "price": 0,
+       "lisPrice": 0,
+       "tax": 0
+      },
+      {
+       "startDateUtc": "2026-08-30T18:00:00+00:00",
+       "endDateUtc": "2026-08-30T19:59:59+00:00",
+       "price": 0,
+       "lisPrice": 0,
+       "tax": 0
+      },
+      {
+       "startDateUtc": "2026-08-30T20:00:00+00:00",
+       "endDateUtc": "2026-08-30T22:00:59+00:00",
+       "price": 0,
+       "lisPrice": 0,
+       "tax": 0
+      },
+      {
+       "startDateUtc": "2026-08-31T08:00:00+00:00",
+       "endDateUtc": "2026-08-31T09:59:59+00:00",
+       "price": 0,
+       "lisPrice": 0,
+       "tax": 0
+      },
+      {
+       "startDateUtc": "2026-08-31T10:00:00+00:00",
+       "endDateUtc": "2026-08-31T11:59:59+00:00",
+       "price": 0,
+       "lisPrice": 0,
+       "tax": 0
+      },
+      {
+       "startDateUtc": "2026-08-31T12:00:00+00:00",
+       "endDateUtc": "2026-08-31T13:59:59+00:00",
+       "price": 0,
+       "lisPrice": 0,
+       "tax": 0
+      },
+      {
+       "startDateUtc": "2026-08-31T14:00:00+00:00",
+       "endDateUtc": "2026-08-31T15:59:59+00:00",
+       "price": 0,
+       "lisPrice": 0,
+       "tax": 0
+      },
+      {
+       "startDateUtc": "2026-08-31T16:00:00+00:00",
+       "endDateUtc": "2026-08-31T17:59:59+00:00",
+       "price": 0,
+       "lisPrice": 0,
+       "tax": 0
+      },
+      {
+       "startDateUtc": "2026-08-31T18:00:00+00:00",
+       "endDateUtc": "2026-08-31T19:59:59+00:00",
+       "price": 0,
+       "lisPrice": 0,
+       "tax": 0
+      }
+     ],
+     "deliveryWindow": null,
+     "price": 0,
+     "listPrice": 0,
+     "tax": 0,
+     "pickupStoreInfo": {
+      "isPickupStore": true,
+      "friendlyName": "CHEDRAUI SELECTO QUERETARO CENTRO SUR",
+      "address": {
+       "addressType": "pickup",
+       "receiverName": null,
+       "addressId": "PP0268",
+       "isDisposable": true,
+       "postalCode": "76090",
+       "city": "Santiago de Querétaro",
+       "state": "Querétaro",
+       "country": "MEX",
+       "street": "Chedraui Centro Sur",
+       "number": "7070",
+       "neighborhood": "CENTRO SUR",
+       "complement": null,
+       "reference": null,
+       "geoCoordinates": [
+        -100.35987,
+        20.570702
+       ]
+      },
+      "additionalInfo": "Obligatorio presentar identificación",
+      "dockId": null
+     },
+     "pickupPointId": "chedrauimx0268_PP0268",
+     "pickupDistance": 3.716071367263794,
+     "polygonName": "CHEDRAUI-SELECTO-QUERETARO-CENTRO-SUR-8",
+     "transitTime": "0d"
+    },
+    {
+     "id": "ENTREGA DOMICILIO - CHEDRAUI SELECTO QUERETARO CENTRO SUR",
+     "deliveryChannel": "delivery",
+     "name": "ENTREGA DOMICILIO - CHEDRAUI SELECTO QUERETARO CENTRO SUR",
+     "deliveryIds": [
+      {
+       "courierId": "HD0268RNRL",
+       "warehouseId": "WH0268",
+       "dockId": "DK0268",
+       "courierName": "DOMICILIO DE R Y NR CON L- CHEDRAUI SELECTO QUERETARO CENTRO SUR",
+       "quantity": 1,
+       "kitItemDetails": []
+      }
+     ],
+     "shippingEstimate": "0bd",
+     "shippingEstimateDate": "2026-08-29T19:17:00-06:00",
+     "lockTTL": null,
+     "availableDeliveryWindows": [
+      {
+       "startDateUtc": "2026-08-30T08:00:00+00:00",
+       "endDateUtc": "2026-08-30T09:59:59+00:00",
+       "price": 0,
+       "lisPrice": 0,
+       "tax": 0
+      },
+      {
+       "startDateUtc": "2026-08-30T10:00:00+00:00",
+       "endDateUtc": "2026-08-30T11:59:59+00:00",
+       "price": 0,
+       "lisPrice": 0,
+       "tax": 0
+      },
+      {
+       "startDateUtc": "2026-08-30T12:00:00+00:00",
+       "endDateUtc": "2026-08-30T13:59:59+00:00",
+       "price": 0,
+       "lisPrice": 0,
+       "tax": 0
+      },
+      {
+       "startDateUtc": "2026-08-30T14:00:00+00:00",
+       "endDateUtc": "2026-08-30T15:59:59+00:00",
+       "price": 0,
+       "lisPrice": 0,
+       "tax": 0
+      },
+      {
+       "startDateUtc": "2026-08-30T16:00:00+00:00",
+       "endDateUtc": "2026-08-30T17:59:59+00:00",
+       "price": 0,
+       "lisPrice": 0,
+       "tax": 0
+      },
+      {
+       "startDateUtc": "2026-08-30T18:00:00+00:00",
+       "endDateUtc": "2026-08-30T19:59:59+00:00",
+       "price": 0,
+       "lisPrice": 0,
+       "tax": 0
+      },
+      {
+       "startDateUtc": "2026-08-30T20:00:00+00:00",
+       "endDateUtc": "2026-08-30T22:00:59+00:00",
+       "price": 0,
+       "lisPrice": 0,
+       "tax": 0
+      },
+      {
+       "startDateUtc": "2026-08-31T08:00:00+00:00",
+       "endDateUtc": "2026-08-31T09:59:59+00:00",
+       "price": 0,
+       "lisPrice": 0,
+       "tax": 0
+      },
+      {
+       "startDateUtc": "2026-08-31T10:00:00+00:00",
+       "endDateUtc": "2026-08-31T11:59:59+00:00",
+       "price": 0,
+       "lisPrice": 0,
+       "tax": 0
+      },
+      {
+       "startDateUtc": "2026-08-31T12:00:00+00:00",
+       "endDateUtc": "2026-08-31T13:59:59+00:00",
+       "price": 0,
+       "lisPrice": 0,
+       "tax": 0
+      },
+      {
+       "startDateUtc": "2026-08-31T14:00:00+00:00",
+       "endDateUtc": "2026-08-31T15:59:59+00:00",
+       "price": 0,
+       "lisPrice": 0,
+       "tax": 0
+      },
+      {
+       "startDateUtc": "2026-08-31T16:00:00+00:00",
+       "endDateUtc": "2026-08-31T17:59:59+00:00",
+       "price": 0,
+       "lisPrice": 0,
+       "tax": 0
+      },
+      {
+       "startDateUtc": "2026-08-31T18:00:00+00:00",
+       "endDateUtc": "2026-08-31T19:59:59+00:00",
+       "price": 0,
+       "lisPrice": 0,
+       "tax": 0
+      }
+     ],
+     "deliveryWindow": null,
+     "price": 1783,
+     "listPrice": 1783,
+     "tax": 0,
+     "pickupStoreInfo": {
+      "isPickupStore": false,
+      "friendlyName": null,
+      "address": null,
+      "additionalInfo": null,
+      "dockId": null
+     },
+     "pickupPointId": null,
+     "pickupDistance": null,
+     "polygonName": "CHEDRAUI-SELECTO-QUERETARO-CENTRO-SUR-8",
+     "transitTime": "0bd"
+    }
+   ],
+   "deliveryChannels": [
+    {
+     "id": "delivery"
+    },
+    {
+     "id": "pickup-in-point"
+    }
+   ]
+  },
+  {
+   "itemIndex": 1,
+   "addressId": null,
+   "selectedSla": null,
+   "selectedDeliveryChannel": null,
+   "quantity": 1,
+   "shipsTo": [
+    "MEX"
+   ],
+   "slas": [
+    {
+     "id": "RECOGER EN TIENDA - CHEDRAUI SELECTO QUERETARO CENTRO SUR (PP0268)",
+     "deliveryChannel": "pickup-in-point",
+     "name": "RECOGER EN TIENDA - CHEDRAUI SELECTO QUERETARO CENTRO SUR (PP0268)",
+     "deliveryIds": [
+      {
+       "courierId": "PU0268",
+       "warehouseId": "WH0268",
+       "dockId": "DK0268",
+       "courierName": "PICKUP R Y NR - CHEDRAUI SELECTO QUERETARO CENTRO SUR",
+       "quantity": 1,
+       "kitItemDetails": []
+      }
+     ],
+     "shippingEstimate": "0d",
+     "shippingEstimateDate": "2026-08-29T19:17:00-06:00",
+     "lockTTL": null,
+     "availableDeliveryWindows": [
+      {
+       "startDateUtc": "2026-08-30T08:00:00+00:00",
+       "endDateUtc": "2026-08-30T09:59:59+00:00",
+       "price": 0,
+       "lisPrice": 0,
+       "tax": 0
+      },
+      {
+       "startDateUtc": "2026-08-30T10:00:00+00:00",
+       "endDateUtc": "2026-08-30T11:59:59+00:00",
+       "price": 0,
+       "lisPrice": 0,
+       "tax": 0
+      },
+      {
+       "startDateUtc": "2026-08-30T12:00:00+00:00",
+       "endDateUtc": "2026-08-30T13:59:59+00:00",
+       "price": 0,
+       "lisPrice": 0,
+       "tax": 0
+      },
+      {
+       "startDateUtc": "2026-08-30T14:00:00+00:00",
+       "endDateUtc": "2026-08-30T15:59:59+00:00",
+       "price": 0,
+       "lisPrice": 0,
+       "tax": 0
+      },
+      {
+       "startDateUtc": "2026-08-30T16:00:00+00:00",
+       "endDateUtc": "2026-08-30T17:59:59+00:00",
+       "price": 0,
+       "lisPrice": 0,
+       "tax": 0
+      },
+      {
+       "startDateUtc": "2026-08-30T18:00:00+00:00",
+       "endDateUtc": "2026-08-30T19:59:59+00:00",
+       "price": 0,
+       "lisPrice": 0,
+       "tax": 0
+      },
+      {
+       "startDateUtc": "2026-08-30T20:00:00+00:00",
+       "endDateUtc": "2026-08-30T22:00:59+00:00",
+       "price": 0,
+       "lisPrice": 0,
+       "tax": 0
+      },
+      {
+       "startDateUtc": "2026-08-31T08:00:00+00:00",
+       "endDateUtc": "2026-08-31T09:59:59+00:00",
+       "price": 0,
+       "lisPrice": 0,
+       "tax": 0
+      },
+      {
+       "startDateUtc": "2026-08-31T10:00:00+00:00",
+       "endDateUtc": "2026-08-31T11:59:59+00:00",
+       "price": 0,
+       "lisPrice": 0,
+       "tax": 0
+      },
+      {
+       "startDateUtc": "2026-08-31T12:00:00+00:00",
+       "endDateUtc": "2026-08-31T13:59:59+00:00",
+       "price": 0,
+       "lisPrice": 0,
+       "tax": 0
+      },
+      {
+       "startDateUtc": "2026-08-31T14:00:00+00:00",
+       "endDateUtc": "2026-08-31T15:59:59+00:00",
+       "price": 0,
+       "lisPrice": 0,
+       "tax": 0
+      },
+      {
+       "startDateUtc": "2026-08-31T16:00:00+00:00",
+       "endDateUtc": "2026-08-31T17:59:59+00:00",
+       "price": 0,
+       "lisPrice": 0,
+       "tax": 0
+      },
+      {
+       "startDateUtc": "2026-08-31T18:00:00+00:00",
+       "endDateUtc": "2026-08-31T19:59:59+00:00",
+       "price": 0,
+       "lisPrice": 0,
+       "tax": 0
+      }
+     ],
+     "deliveryWindow": null,
+     "price": 0,
+     "listPrice": 0,
+     "tax": 0,
+     "pickupStoreInfo": {
+      "isPickupStore": true,
+      "friendlyName": "CHEDRAUI SELECTO QUERETARO CENTRO SUR",
+      "address": {
+       "addressType": "pickup",
+       "receiverName": null,
+       "addressId": "PP0268",
+       "isDisposable": true,
+       "postalCode": "76090",
+       "city": "Santiago de Querétaro",
+       "state": "Querétaro",
+       "country": "MEX",
+       "street": "Chedraui Centro Sur",
+       "number": "7070",
+       "neighborhood": "CENTRO SUR",
+       "complement": null,
+       "reference": null,
+       "geoCoordinates": [
+        -100.35987,
+        20.570702
+       ]
+      },
+      "additionalInfo": "Obligatorio presentar identificación",
+      "dockId": null
+     },
+     "pickupPointId": "chedrauimx0268_PP0268",
+     "pickupDistance": 3.716071367263794,
+     "polygonName": "CHEDRAUI-SELECTO-QUERETARO-CENTRO-SUR-8",
+     "transitTime": "0d"
+    },
+    {
+     "id": "ENTREGA DOMICILIO - CHEDRAUI SELECTO QUERETARO CENTRO SUR",
+     "deliveryChannel": "delivery",
+     "name": "ENTREGA DOMICILIO - CHEDRAUI SELECTO QUERETARO CENTRO SUR",
+     "deliveryIds": [
+      {
+       "courierId": "HD0268RNRL",
+       "warehouseId": "WH0268",
+       "dockId": "DK0268",
+       "courierName": "DOMICILIO DE R Y NR CON L- CHEDRAUI SELECTO QUERETARO CENTRO SUR",
+       "quantity": 1,
+       "kitItemDetails": []
+      }
+     ],
+     "shippingEstimate": "0bd",
+     "shippingEstimateDate": "2026-08-29T19:17:00-06:00",
+     "lockTTL": null,
+     "availableDeliveryWindows": [
+      {
+       "startDateUtc": "2026-08-30T08:00:00+00:00",
+       "endDateUtc": "2026-08-30T09:59:59+00:00",
+       "price": 0,
+       "lisPrice": 0,
+       "tax": 0
+      },
+      {
+       "startDateUtc": "2026-08-30T10:00:00+00:00",
+       "endDateUtc": "2026-08-30T11:59:59+00:00",
+       "price": 0,
+       "lisPrice": 0,
+       "tax": 0
+      },
+      {
+       "startDateUtc": "2026-08-30T12:00:00+00:00",
+       "endDateUtc": "2026-08-30T13:59:59+00:00",
+       "price": 0,
+       "lisPrice": 0,
+       "tax": 0
+      },
+      {
+       "startDateUtc": "2026-08-30T14:00:00+00:00",
+       "endDateUtc": "2026-08-30T15:59:59+00:00",
+       "price": 0,
+       "lisPrice": 0,
+       "tax": 0
+      },
+      {
+       "startDateUtc": "2026-08-30T16:00:00+00:00",
+       "endDateUtc": "2026-08-30T17:59:59+00:00",
+       "price": 0,
+       "lisPrice": 0,
+       "tax": 0
+      },
+      {
+       "startDateUtc": "2026-08-30T18:00:00+00:00",
+       "endDateUtc": "2026-08-30T19:59:59+00:00",
+       "price": 0,
+       "lisPrice": 0,
+       "tax": 0
+      },
+      {
+       "startDateUtc": "2026-08-30T20:00:00+00:00",
+       "endDateUtc": "2026-08-30T22:00:59+00:00",
+       "price": 0,
+       "lisPrice": 0,
+       "tax": 0
+      },
+      {
+       "startDateUtc": "2026-08-31T08:00:00+00:00",
+       "endDateUtc": "2026-08-31T09:59:59+00:00",
+       "price": 0,
+       "lisPrice": 0,
+       "tax": 0
+      },
+      {
+       "startDateUtc": "2026-08-31T10:00:00+00:00",
+       "endDateUtc": "2026-08-31T11:59:59+00:00",
+       "price": 0,
+       "lisPrice": 0,
+       "tax": 0
+      },
+      {
+       "startDateUtc": "2026-08-31T12:00:00+00:00",
+       "endDateUtc": "2026-08-31T13:59:59+00:00",
+       "price": 0,
+       "lisPrice": 0,
+       "tax": 0
+      },
+      {
+       "startDateUtc": "2026-08-31T14:00:00+00:00",
+       "endDateUtc": "2026-08-31T15:59:59+00:00",
+       "price": 0,
+       "lisPrice": 0,
+       "tax": 0
+      },
+      {
+       "startDateUtc": "2026-08-31T16:00:00+00:00",
+       "endDateUtc": "2026-08-31T17:59:59+00:00",
+       "price": 0,
+       "lisPrice": 0,
+       "tax": 0
+      },
+      {
+       "startDateUtc": "2026-08-31T18:00:00+00:00",
+       "endDateUtc": "2026-08-31T19:59:59+00:00",
+       "price": 0,
+       "lisPrice": 0,
+       "tax": 0
+      }
+     ],
+     "deliveryWindow": null,
+     "price": 2717,
+     "listPrice": 2717,
+     "tax": 0,
+     "pickupStoreInfo": {
+      "isPickupStore": false,
+      "friendlyName": null,
+      "address": null,
+      "additionalInfo": null,
+      "dockId": null
+     },
+     "pickupPointId": null,
+     "pickupDistance": null,
+     "polygonName": "CHEDRAUI-SELECTO-QUERETARO-CENTRO-SUR-8",
+     "transitTime": "0bd"
+    }
+   ],
+   "deliveryChannels": [
+    {
+     "id": "delivery"
+    },
+    {
+     "id": "pickup-in-point"
+    }
+   ]
+  },
+  {
+   "itemIndex": 2,
+   "addressId": null,
+   "selectedSla": null,
+   "selectedDeliveryChannel": null,
+   "quantity": 1,
+   "shipsTo": [
+    "MEX"
+   ],
+   "slas": [],
+   "deliveryChannels": [
+    {
+     "id": "delivery"
+    }
+   ]
+  }
+ ],
+ "messages": [
+  {
+   "code": "withoutStock",
+   "text": "El ítem Botana Sabritas Rancheritos 72g no tiene inventario",
+   "status": "error",
+   "fields": {
+    "ean": "7500478034413",
+    "itemIndex": "2",
+    "skuName": "Botana Sabritas Rancheritos 72g"
+   }
+  }
+ ],
+ "purchaseConditions": {
+  "itemPurchaseConditions": [
+   {
+    "id": "3104995",
+    "seller": "1",
+    "sellerChain": [
+     "1",
+     "chedrauimx0268"
+    ],
+    "slas": [
+     {
+      "id": "ENTREGA DOMICILIO - CHEDRAUI SELECTO QUERETARO CENTRO SUR",
+      "deliveryChannel": "delivery",
+      "name": "ENTREGA DOMICILIO - CHEDRAUI SELECTO QUERETARO CENTRO SUR",
+      "deliveryIds": [
+       {
+        "courierId": "HD0268RNRL",
+        "warehouseId": "WH0268",
+        "dockId": "DK0268",
+        "courierName": "DOMICILIO DE R Y NR CON L- CHEDRAUI SELECTO QUERETARO CENTRO SUR",
+        "quantity": 1,
+        "kitItemDetails": []
+       }
+      ],
+      "shippingEstimate": "0bd",
+      "shippingEstimateDate": "2026-08-29T19:17:00-06:00",
+      "lockTTL": null,
+      "availableDeliveryWindows": [
+       {
+        "startDateUtc": "2026-08-30T08:00:00+00:00",
+        "endDateUtc": "2026-08-30T09:59:59+00:00",
+        "price": 0,
+        "lisPrice": 0,
+        "tax": 0
+       },
+       {
+        "startDateUtc": "2026-08-30T10:00:00+00:00",
+        "endDateUtc": "2026-08-30T11:59:59+00:00",
+        "price": 0,
+        "lisPrice": 0,
+        "tax": 0
+       },
+       {
+        "startDateUtc": "2026-08-30T12:00:00+00:00",
+        "endDateUtc": "2026-08-30T13:59:59+00:00",
+        "price": 0,
+        "lisPrice": 0,
+        "tax": 0
+       },
+       {
+        "startDateUtc": "2026-08-30T14:00:00+00:00",
+        "endDateUtc": "2026-08-30T15:59:59+00:00",
+        "price": 0,
+        "lisPrice": 0,
+        "tax": 0
+       },
+       {
+        "startDateUtc": "2026-08-30T16:00:00+00:00",
+        "endDateUtc": "2026-08-30T17:59:59+00:00",
+        "price": 0,
+        "lisPrice": 0,
+        "tax": 0
+       },
+       {
+        "startDateUtc": "2026-08-30T18:00:00+00:00",
+        "endDateUtc": "2026-08-30T19:59:59+00:00",
+        "price": 0,
+        "lisPrice": 0,
+        "tax": 0
+       },
+       {
+        "startDateUtc": "2026-08-30T20:00:00+00:00",
+        "endDateUtc": "2026-08-30T22:00:59+00:00",
+        "price": 0,
+        "lisPrice": 0,
+        "tax": 0
+       },
+       {
+        "startDateUtc": "2026-08-31T08:00:00+00:00",
+        "endDateUtc": "2026-08-31T09:59:59+00:00",
+        "price": 0,
+        "lisPrice": 0,
+        "tax": 0
+       },
+       {
+        "startDateUtc": "2026-08-31T10:00:00+00:00",
+        "endDateUtc": "2026-08-31T11:59:59+00:00",
+        "price": 0,
+        "lisPrice": 0,
+        "tax": 0
+       },
+       {
+        "startDateUtc": "2026-08-31T12:00:00+00:00",
+        "endDateUtc": "2026-08-31T13:59:59+00:00",
+        "price": 0,
+        "lisPrice": 0,
+        "tax": 0
+       },
+       {
+        "startDateUtc": "2026-08-31T14:00:00+00:00",
+        "endDateUtc": "2026-08-31T15:59:59+00:00",
+        "price": 0,
+        "lisPrice": 0,
+        "tax": 0
+       },
+       {
+        "startDateUtc": "2026-08-31T16:00:00+00:00",
+        "endDateUtc": "2026-08-31T17:59:59+00:00",
+        "price": 0,
+        "lisPrice": 0,
+        "tax": 0
+       },
+       {
+        "startDateUtc": "2026-08-31T18:00:00+00:00",
+        "endDateUtc": "2026-08-31T19:59:59+00:00",
+        "price": 0,
+        "lisPrice": 0,
+        "tax": 0
+       }
+      ],
+      "deliveryWindow": null,
+      "price": 1783,
+      "listPrice": 1783,
+      "tax": 0,
+      "pickupStoreInfo": {
+       "isPickupStore": false,
+       "friendlyName": null,
+       "address": null,
+       "additionalInfo": null,
+       "dockId": null
+      },
+      "pickupPointId": null,
+      "pickupDistance": null,
+      "polygonName": "CHEDRAUI-SELECTO-QUERETARO-CENTRO-SUR-8",
+      "transitTime": "0bd"
+     },
+     {
+      "id": "RECOGER EN TIENDA - CHEDRAUI SELECTO QUERETARO CENTRO SUR (PP0268)",
+      "deliveryChannel": "pickup-in-point",
+      "name": "RECOGER EN TIENDA - CHEDRAUI SELECTO QUERETARO CENTRO SUR (PP0268)",
+      "deliveryIds": [
+       {
+        "courierId": "PU0268",
+        "warehouseId": "WH0268",
+        "dockId": "DK0268",
+        "courierName": "PICKUP R Y NR - CHEDRAUI SELECTO QUERETARO CENTRO SUR",
+        "quantity": 1,
+        "kitItemDetails": []
+       }
+      ],
+      "shippingEstimate": "0d",
+      "shippingEstimateDate": "2026-08-29T19:17:00-06:00",
+      "lockTTL": null,
+      "availableDeliveryWindows": [
+       {
+        "startDateUtc": "2026-08-30T08:00:00+00:00",
+        "endDateUtc": "2026-08-30T09:59:59+00:00",
+        "price": 0,
+        "lisPrice": 0,
+        "tax": 0
+       },
+       {
+        "startDateUtc": "2026-08-30T10:00:00+00:00",
+        "endDateUtc": "2026-08-30T11:59:59+00:00",
+        "price": 0,
+        "lisPrice": 0,
+        "tax": 0
+       },
+       {
+        "startDateUtc": "2026-08-30T12:00:00+00:00",
+        "endDateUtc": "2026-08-30T13:59:59+00:00",
+        "price": 0,
+        "lisPrice": 0,
+        "tax": 0
+       },
+       {
+        "startDateUtc": "2026-08-30T14:00:00+00:00",
+        "endDateUtc": "2026-08-30T15:59:59+00:00",
+        "price": 0,
+        "lisPrice": 0,
+        "tax": 0
+       },
+       {
+        "startDateUtc": "2026-08-30T16:00:00+00:00",
+        "endDateUtc": "2026-08-30T17:59:59+00:00",
+        "price": 0,
+        "lisPrice": 0,
+        "tax": 0
+       },
+       {
+        "startDateUtc": "2026-08-30T18:00:00+00:00",
+        "endDateUtc": "2026-08-30T19:59:59+00:00",
+        "price": 0,
+        "lisPrice": 0,
+        "tax": 0
+       },
+       {
+        "startDateUtc": "2026-08-30T20:00:00+00:00",
+        "endDateUtc": "2026-08-30T22:00:59+00:00",
+        "price": 0,
+        "lisPrice": 0,
+        "tax": 0
+       },
+       {
+        "startDateUtc": "2026-08-31T08:00:00+00:00",
+        "endDateUtc": "2026-08-31T09:59:59+00:00",
+        "price": 0,
+        "lisPrice": 0,
+        "tax": 0
+       },
+       {
+        "startDateUtc": "2026-08-31T10:00:00+00:00",
+        "endDateUtc": "2026-08-31T11:59:59+00:00",
+        "price": 0,
+        "lisPrice": 0,
+        "tax": 0
+       },
+       {
+        "startDateUtc": "2026-08-31T12:00:00+00:00",
+        "endDateUtc": "2026-08-31T13:59:59+00:00",
+        "price": 0,
+        "lisPrice": 0,
+        "tax": 0
+       },
+       {
+        "startDateUtc": "2026-08-31T14:00:00+00:00",
+        "endDateUtc": "2026-08-31T15:59:59+00:00",
+        "price": 0,
+        "lisPrice": 0,
+        "tax": 0
+       },
+       {
+        "startDateUtc": "2026-08-31T16:00:00+00:00",
+        "endDateUtc": "2026-08-31T17:59:59+00:00",
+        "price": 0,
+        "lisPrice": 0,
+        "tax": 0
+       },
+       {
+        "startDateUtc": "2026-08-31T18:00:00+00:00",
+        "endDateUtc": "2026-08-31T19:59:59+00:00",
+        "price": 0,
+        "lisPrice": 0,
+        "tax": 0
+       }
+      ],
+      "deliveryWindow": null,
+      "price": 0,
+      "listPrice": 0,
+      "tax": 0,
+      "pickupStoreInfo": {
+       "isPickupStore": true,
+       "friendlyName": "CHEDRAUI SELECTO QUERETARO CENTRO SUR",
+       "address": {
+        "addressType": "pickup",
+        "receiverName": null,
+        "addressId": "PP0268",
+        "isDisposable": true,
+        "postalCode": "76090",
+        "city": "Santiago de Querétaro",
+        "state": "Querétaro",
+        "country": "MEX",
+        "street": "Chedraui Centro Sur",
+        "number": "7070",
+        "neighborhood": "CENTRO SUR",
+        "complement": null,
+        "reference": null,
+        "geoCoordinates": [
+         -100.35987,
+         20.570702
+        ]
+       },
+       "additionalInfo": "Obligatorio presentar identificación",
+       "dockId": null
+      },
+      "pickupPointId": "chedrauimx0268_PP0268",
+      "pickupDistance": 3.716071367263794,
+      "polygonName": "CHEDRAUI-SELECTO-QUERETARO-CENTRO-SUR-8",
+      "transitTime": "0d"
+     }
+    ],
+    "price": 3800,
+    "listPrice": 3800
+   },
+   {
+    "id": "3196352",
+    "seller": "1",
+    "sellerChain": [
+     "1",
+     "chedrauimx0268"
+    ],
+    "slas": [
+     {
+      "id": "ENTREGA DOMICILIO - CHEDRAUI SELECTO QUERETARO CENTRO SUR",
+      "deliveryChannel": "delivery",
+      "name": "ENTREGA DOMICILIO - CHEDRAUI SELECTO QUERETARO CENTRO SUR",
+      "deliveryIds": [
+       {
+        "courierId": "HD0268RNRL",
+        "warehouseId": "WH0268",
+        "dockId": "DK0268",
+        "courierName": "DOMICILIO DE R Y NR CON L- CHEDRAUI SELECTO QUERETARO CENTRO SUR",
+        "quantity": 1,
+        "kitItemDetails": []
+       }
+      ],
+      "shippingEstimate": "0bd",
+      "shippingEstimateDate": "2026-08-29T19:17:00-06:00",
+      "lockTTL": null,
+      "availableDeliveryWindows": [
+       {
+        "startDateUtc": "2026-08-30T08:00:00+00:00",
+        "endDateUtc": "2026-08-30T09:59:59+00:00",
+        "price": 0,
+        "lisPrice": 0,
+        "tax": 0
+       },
+       {
+        "startDateUtc": "2026-08-30T10:00:00+00:00",
+        "endDateUtc": "2026-08-30T11:59:59+00:00",
+        "price": 0,
+        "lisPrice": 0,
+        "tax": 0
+       },
+       {
+        "startDateUtc": "2026-08-30T12:00:00+00:00",
+        "endDateUtc": "2026-08-30T13:59:59+00:00",
+        "price": 0,
+        "lisPrice": 0,
+        "tax": 0
+       },
+       {
+        "startDateUtc": "2026-08-30T14:00:00+00:00",
+        "endDateUtc": "2026-08-30T15:59:59+00:00",
+        "price": 0,
+        "lisPrice": 0,
+        "tax": 0
+       },
+       {
+        "startDateUtc": "2026-08-30T16:00:00+00:00",
+        "endDateUtc": "2026-08-30T17:59:59+00:00",
+        "price": 0,
+        "lisPrice": 0,
+        "tax": 0
+       },
+       {
+        "startDateUtc": "2026-08-30T18:00:00+00:00",
+        "endDateUtc": "2026-08-30T19:59:59+00:00",
+        "price": 0,
+        "lisPrice": 0,
+        "tax": 0
+       },
+       {
+        "startDateUtc": "2026-08-30T20:00:00+00:00",
+        "endDateUtc": "2026-08-30T22:00:59+00:00",
+        "price": 0,
+        "lisPrice": 0,
+        "tax": 0
+       },
+       {
+        "startDateUtc": "2026-08-31T08:00:00+00:00",
+        "endDateUtc": "2026-08-31T09:59:59+00:00",
+        "price": 0,
+        "lisPrice": 0,
+        "tax": 0
+       },
+       {
+        "startDateUtc": "2026-08-31T10:00:00+00:00",
+        "endDateUtc": "2026-08-31T11:59:59+00:00",
+        "price": 0,
+        "lisPrice": 0,
+        "tax": 0
+       },
+       {
+        "startDateUtc": "2026-08-31T12:00:00+00:00",
+        "endDateUtc": "2026-08-31T13:59:59+00:00",
+        "price": 0,
+        "lisPrice": 0,
+        "tax": 0
+       },
+       {
+        "startDateUtc": "2026-08-31T14:00:00+00:00",
+        "endDateUtc": "2026-08-31T15:59:59+00:00",
+        "price": 0,
+        "lisPrice": 0,
+        "tax": 0
+       },
+       {
+        "startDateUtc": "2026-08-31T16:00:00+00:00",
+        "endDateUtc": "2026-08-31T17:59:59+00:00",
+        "price": 0,
+        "lisPrice": 0,
+        "tax": 0
+       },
+       {
+        "startDateUtc": "2026-08-31T18:00:00+00:00",
+        "endDateUtc": "2026-08-31T19:59:59+00:00",
+        "price": 0,
+        "lisPrice": 0,
+        "tax": 0
+       }
+      ],
+      "deliveryWindow": null,
+      "price": 2717,
+      "listPrice": 2717,
+      "tax": 0,
+      "pickupStoreInfo": {
+       "isPickupStore": false,
+       "friendlyName": null,
+       "address": null,
+       "additionalInfo": null,
+       "dockId": null
+      },
+      "pickupPointId": null,
+      "pickupDistance": null,
+      "polygonName": "CHEDRAUI-SELECTO-QUERETARO-CENTRO-SUR-8",
+      "transitTime": "0bd"
+     },
+     {
+      "id": "RECOGER EN TIENDA - CHEDRAUI SELECTO QUERETARO CENTRO SUR (PP0268)",
+      "deliveryChannel": "pickup-in-point",
+      "name": "RECOGER EN TIENDA - CHEDRAUI SELECTO QUERETARO CENTRO SUR (PP0268)",
+      "deliveryIds": [
+       {
+        "courierId": "PU0268",
+        "warehouseId": "WH0268",
+        "dockId": "DK0268",
+        "courierName": "PICKUP R Y NR - CHEDRAUI SELECTO QUERETARO CENTRO SUR",
+        "quantity": 1,
+        "kitItemDetails": []
+       }
+      ],
+      "shippingEstimate": "0d",
+      "shippingEstimateDate": "2026-08-29T19:17:00-06:00",
+      "lockTTL": null,
+      "availableDeliveryWindows": [
+       {
+        "startDateUtc": "2026-08-30T08:00:00+00:00",
+        "endDateUtc": "2026-08-30T09:59:59+00:00",
+        "price": 0,
+        "lisPrice": 0,
+        "tax": 0
+       },
+       {
+        "startDateUtc": "2026-08-30T10:00:00+00:00",
+        "endDateUtc": "2026-08-30T11:59:59+00:00",
+        "price": 0,
+        "lisPrice": 0,
+        "tax": 0
+       },
+       {
+        "startDateUtc": "2026-08-30T12:00:00+00:00",
+        "endDateUtc": "2026-08-30T13:59:59+00:00",
+        "price": 0,
+        "lisPrice": 0,
+        "tax": 0
+       },
+       {
+        "startDateUtc": "2026-08-30T14:00:00+00:00",
+        "endDateUtc": "2026-08-30T15:59:59+00:00",
+        "price": 0,
+        "lisPrice": 0,
+        "tax": 0
+       },
+       {
+        "startDateUtc": "2026-08-30T16:00:00+00:00",
+        "endDateUtc": "2026-08-30T17:59:59+00:00",
+        "price": 0,
+        "lisPrice": 0,
+        "tax": 0
+       },
+       {
+        "startDateUtc": "2026-08-30T18:00:00+00:00",
+        "endDateUtc": "2026-08-30T19:59:59+00:00",
+        "price": 0,
+        "lisPrice": 0,
+        "tax": 0
+       },
+       {
+        "startDateUtc": "2026-08-30T20:00:00+00:00",
+        "endDateUtc": "2026-08-30T22:00:59+00:00",
+        "price": 0,
+        "lisPrice": 0,
+        "tax": 0
+       },
+       {
+        "startDateUtc": "2026-08-31T08:00:00+00:00",
+        "endDateUtc": "2026-08-31T09:59:59+00:00",
+        "price": 0,
+        "lisPrice": 0,
+        "tax": 0
+       },
+       {
+        "startDateUtc": "2026-08-31T10:00:00+00:00",
+        "endDateUtc": "2026-08-31T11:59:59+00:00",
+        "price": 0,
+        "lisPrice": 0,
+        "tax": 0
+       },
+       {
+        "startDateUtc": "2026-08-31T12:00:00+00:00",
+        "endDateUtc": "2026-08-31T13:59:59+00:00",
+        "price": 0,
+        "lisPrice": 0,
+        "tax": 0
+       },
+       {
+        "startDateUtc": "2026-08-31T14:00:00+00:00",
+        "endDateUtc": "2026-08-31T15:59:59+00:00",
+        "price": 0,
+        "lisPrice": 0,
+        "tax": 0
+       },
+       {
+        "startDateUtc": "2026-08-31T16:00:00+00:00",
+        "endDateUtc": "2026-08-31T17:59:59+00:00",
+        "price": 0,
+        "lisPrice": 0,
+        "tax": 0
+       },
+       {
+        "startDateUtc": "2026-08-31T18:00:00+00:00",
+        "endDateUtc": "2026-08-31T19:59:59+00:00",
+        "price": 0,
+        "lisPrice": 0,
+        "tax": 0
+       }
+      ],
+      "deliveryWindow": null,
+      "price": 0,
+      "listPrice": 0,
+      "tax": 0,
+      "pickupStoreInfo": {
+       "isPickupStore": true,
+       "friendlyName": "CHEDRAUI SELECTO QUERETARO CENTRO SUR",
+       "address": {
+        "addressType": "pickup",
+        "receiverName": null,
+        "addressId": "PP0268",
+        "isDisposable": true,
+        "postalCode": "76090",
+        "city": "Santiago de Querétaro",
+        "state": "Querétaro",
+        "country": "MEX",
+        "street": "Chedraui Centro Sur",
+        "number": "7070",
+        "neighborhood": "CENTRO SUR",
+        "complement": null,
+        "reference": null,
+        "geoCoordinates": [
+         -100.35987,
+         20.570702
+        ]
+       },
+       "additionalInfo": "Obligatorio presentar identificación",
+       "dockId": null
+      },
+      "pickupPointId": "chedrauimx0268_PP0268",
+      "pickupDistance": 3.716071367263794,
+      "polygonName": "CHEDRAUI-SELECTO-QUERETARO-CENTRO-SUR-8",
+      "transitTime": "0d"
+     }
+    ],
+    "price": 6100,
+    "listPrice": 6100
+   },
+   {
+    "id": "3783832",
+    "seller": "1",
+    "sellerChain": [
+     "1",
+     "chedrauimx0268"
+    ],
+    "slas": [],
+    "price": 1500,
+    "listPrice": 1500
+   }
+  ]
+ },
+ "pickupPoints": [
+  {
+   "friendlyName": "CHEDRAUI SELECTO QUERETARO CENTRO SUR",
+   "address": {
+    "addressType": "pickup",
+    "receiverName": null,
+    "addressId": "PP0268",
+    "isDisposable": true,
+    "postalCode": "76090",
+    "city": "Santiago de Querétaro",
+    "state": "Querétaro",
+    "country": "MEX",
+    "street": "Chedraui Centro Sur",
+    "number": "7070",
+    "neighborhood": "CENTRO SUR",
+    "complement": null,
+    "reference": null,
+    "geoCoordinates": [
+     -100.35987,
+     20.570702
+    ]
+   },
+   "additionalInfo": "Obligatorio presentar identificación",
+   "id": "chedrauimx0268_PP0268",
+   "isActive": null,
+   "businessHours": [
+    {
+     "DayOfWeek": 0,
+     "OpeningTime": "08:00:00",
+     "ClosingTime": "22:00:00"
+    },
+    {
+     "DayOfWeek": 1,
+     "OpeningTime": "08:00:00",
+     "ClosingTime": "22:00:00"
+    },
+    {
+     "DayOfWeek": 2,
+     "OpeningTime": "08:00:00",
+     "ClosingTime": "22:00:00"
+    },
+    {
+     "DayOfWeek": 3,
+     "OpeningTime": "08:00:00",
+     "ClosingTime": "22:00:00"
+    },
+    {
+     "DayOfWeek": 4,
+     "OpeningTime": "08:00:00",
+     "ClosingTime": "22:00:00"
+    },
+    {
+     "DayOfWeek": 5,
+     "OpeningTime": "08:00:00",
+     "ClosingTime": "22:00:00"
+    },
+    {
+     "DayOfWeek": 6,
+     "OpeningTime": "08:00:00",
+     "ClosingTime": "22:00:00"
+    }
+   ]
+  }
+ ],
+ "subscriptionData": null,
+ "totals": [
+  {
+   "id": "Items",
+   "name": "Total de los items",
+   "value": 9900
+  }
+ ],
+ "itemMetadata": null,
+ "sellers": [
+  {
+   "id": "1",
+   "name": "Chedraui",
+   "logo": null,
+   "minimumOrderValue": 0
+  }
+ ],
+ "allowMultipleDeliveries": true,
+ "minimumOrderValue": 0
+}

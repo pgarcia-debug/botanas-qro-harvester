@@ -1,0 +1,3969 @@
+[
+ {
+  "productId": "3862787",
+  "productName": "Mix de Botanas Golden Nuts Dorado 200g",
+  "brand": "Golden Nuts",
+  "brandId": 2776,
+  "brandImageUrl": null,
+  "linkText": "mix-de-botanas-golden-nuts-dorado-200g-3862787",
+  "productReference": "3862787",
+  "productReferenceCode": "3862787",
+  "categoryId": "10710",
+  "productTitle": "Mix de Botanas Golden Nuts Dorado 200g | Chedraui",
+  "metaTagDescription": "Disfruta una combinación deliciosa y nutritiva con el Mix de Botanas Golden Nuts Dorado, perfecto para tus antojos o para acompañarte durante el día.",
+  "releaseDate": "2025-04-25T00:00:00Z",
+  "clusterHighlights": {},
+  "productClusters": {
+   "18235": "AppHome__Botanas",
+   "19612": "Ofertas en botanas",
+   "20146": "Cenas navideñas",
+   "21964": "Golden Nuts de Barcel"
+  },
+  "searchableClusters": {},
+  "categories": [
+   "/Supermercado/Despensa/Botanas y frutos secos/",
+   "/Supermercado/Despensa/",
+   "/Supermercado/"
+  ],
+  "categoriesIds": [
+   "/1/107/10710/",
+   "/1/107/",
+   "/1/"
+  ],
+  "link": "https://www.chedraui.com.mx/mix-de-botanas-golden-nuts-dorado-200g-3862787/p",
+  "Contenido del empaque": [
+   "1 pz de 200g"
+  ],
+  "Fraud Check": [
+   "FALSO"
+  ],
+  "Benefits 3": [
+   "Ideal como snack entre comidas o para compartir."
+  ],
+  "Máximo de venta": [
+   "12"
+  ],
+  "MultiEan": [
+   "7500810034941"
+  ],
+  "Atributos de Especificación": [
+   "Contenido del empaque",
+   "Fraud Check",
+   "Benefits 3",
+   "Máximo de venta",
+   "MultiEan"
+  ],
+  "allSpecifications": [
+   "Contenido del empaque",
+   "Fraud Check",
+   "Benefits 3",
+   "Máximo de venta",
+   "MultiEan"
+  ],
+  "allSpecificationsGroups": [
+   "Atributos de Especificación"
+  ],
+  "description": "Mix de Botanas Golden Nuts Dorado 200g.<div><br><b>Las imágenes del producto son únicamente de referencia, el diseño de etiquetas y el contenido (ml, L, Kg, g, piezas, etc) pueden cambiar y/o variar sin previo aviso.</b></div>",
+  "items": [
+   {
+    "itemId": "3862787",
+    "name": "Mix de Botanas Golden Nuts Dorado 200g",
+    "nameComplete": "Mix de Botanas Golden Nuts Dorado 200g",
+    "complementName": "",
+    "ean": "7500810034941",
+    "referenceId": [
+     {
+      "Key": "RefId",
+      "Value": "3862787"
+     }
+    ],
+    "measurementUnit": "un",
+    "unitMultiplier": 1.0,
+    "modalType": "ELECTRONICS",
+    "isKit": false,
+    "images": [
+     {
+      "imageId": "72707046",
+      "imageLabel": "7500810034941_00",
+      "imageTag": "<img src=\"~/arquivos/ids/72707046-#width#-#height#/7500810034941_00.jpg?v=639185513010930000\" width=\"#width#\" height=\"#height#\" alt=\"7500810034941_00\" id=\"\" />",
+      "imageUrl": "https://chedrauimx.vteximg.com.br/arquivos/ids/72707046/7500810034941_00.jpg?v=639185513010930000",
+      "imageText": "7500810034941_00",
+      "imageLastModified": "2026-07-02T01:08:21.0930000Z"
+     },
+     {
+      "imageId": "72707047",
+      "imageLabel": "7500810034941_01",
+      "imageTag": "<img src=\"~/arquivos/ids/72707047-#width#-#height#/7500810034941_01.jpg?v=639185513012370000\" width=\"#width#\" height=\"#height#\" alt=\"7500810034941_01\" id=\"\" />",
+      "imageUrl": "https://chedrauimx.vteximg.com.br/arquivos/ids/72707047/7500810034941_01.jpg?v=639185513012370000",
+      "imageText": "7500810034941_01",
+      "imageLastModified": "2026-07-02T01:08:21.2370000Z"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerName": "Chedraui",
+      "addToCartLink": "https://www.chedraui.com.mx/checkout/cart/add?sku=3862787&qty=1&seller=1&sc=1&price=4700&cv=_&sc=1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "DeliverySlaSamplesPerRegion": {
+        "0": {
+         "DeliverySlaPerTypes": [],
+         "Region": null
+        }
+       },
+       "Installments": [
+        {
+         "Value": 47.0,
+         "InterestRate": 0.0,
+         "TotalValuePlusInterestRate": 47.0,
+         "NumberOfInstallments": 1,
+         "PaymentSystemName": "American Express",
+         "PaymentSystemGroupName": "creditCardPaymentGroup",
+         "Name": "American Express à vista"
+        },
+        {
+         "Value": 47.0,
+         "InterestRate": 0.0,
+         "TotalValuePlusInterestRate": 47.0,
+         "NumberOfInstallments": 1,
+         "PaymentSystemName": "Visa",
+         "PaymentSystemGroupName": "creditCardPaymentGroup",
+         "Name": "Visa à vista"
+        },
+        {
+         "Value": 47.0,
+         "InterestRate": 0.0,
+         "TotalValuePlusInterestRate": 47.0,
+         "NumberOfInstallments": 1,
+         "PaymentSystemName": "Mastercard",
+         "PaymentSystemGroupName": "creditCardPaymentGroup",
+         "Name": "Mastercard à vista"
+        },
+        {
+         "Value": 47.0,
+         "InterestRate": 0.0,
+         "TotalValuePlusInterestRate": 47.0,
+         "NumberOfInstallments": 1,
+         "PaymentSystemName": "Vale",
+         "PaymentSystemGroupName": "giftCardPaymentGroup",
+         "Name": "Vale à vista"
+        },
+        {
+         "Value": 47.0,
+         "InterestRate": 0.0,
+         "TotalValuePlusInterestRate": 47.0,
+         "NumberOfInstallments": 1,
+         "PaymentSystemName": "MercadoPagoPro",
+         "PaymentSystemGroupName": "MercadoPagoProPaymentGroup",
+         "Name": "MercadoPagoPro à vista"
+        },
+        {
+         "Value": 47.0,
+         "InterestRate": 0.0,
+         "TotalValuePlusInterestRate": 47.0,
+         "NumberOfInstallments": 1,
+         "PaymentSystemName": "Aplazo Payment",
+         "PaymentSystemGroupName": "aplazoPaymentGroup",
+         "Name": "Aplazo Payment à vista"
+        },
+        {
+         "Value": 47.0,
+         "InterestRate": 0.0,
+         "TotalValuePlusInterestRate": 47.0,
+         "NumberOfInstallments": 1,
+         "PaymentSystemName": "Pago contra entrega",
+         "PaymentSystemGroupName": "custom201PaymentGroupPaymentGroup",
+         "Name": "Pago contra entrega à vista"
+        },
+        {
+         "Value": 47.0,
+         "InterestRate": 0.0,
+         "TotalValuePlusInterestRate": 47.0,
+         "NumberOfInstallments": 1,
+         "PaymentSystemName": "KUESKI",
+         "PaymentSystemGroupName": "custom204PaymentGroupPaymentGroup",
+         "Name": "KUESKI à vista"
+        },
+        {
+         "Value": 47.0,
+         "InterestRate": 0.0,
+         "TotalValuePlusInterestRate": 47.0,
+         "NumberOfInstallments": 1,
+         "PaymentSystemName": "Puntos BBVA",
+         "PaymentSystemGroupName": "customPrivate_501PaymentGroup",
+         "Name": "Puntos BBVA à vista"
+        },
+        {
+         "Value": 47.0,
+         "InterestRate": 0.0,
+         "TotalValuePlusInterestRate": 47.0,
+         "NumberOfInstallments": 1,
+         "PaymentSystemName": "Vales",
+         "PaymentSystemGroupName": "customPrivate_502PaymentGroup",
+         "Name": "Vales à vista"
+        },
+        {
+         "Value": 47.0,
+         "InterestRate": 0.0,
+         "TotalValuePlusInterestRate": 47.0,
+         "NumberOfInstallments": 1,
+         "PaymentSystemName": "Mercado Credito",
+         "PaymentSystemGroupName": "MercadoCreditoPaymentGroup",
+         "Name": "Mercado Credito à vista"
+        },
+        {
+         "Value": 47.0,
+         "InterestRate": 0.0,
+         "TotalValuePlusInterestRate": 47.0,
+         "NumberOfInstallments": 1,
+         "PaymentSystemName": "PayPalCheckout",
+         "PaymentSystemGroupName": "PayPalCheckoutPaymentGroup",
+         "Name": "PayPalCheckout à vista"
+        }
+       ],
+       "DiscountHighLight": [],
+       "GiftSkuIds": [],
+       "Teasers": [],
+       "PromotionTeasers": [],
+       "BuyTogether": [],
+       "ItemMetadataAttachment": [],
+       "Price": 47.0,
+       "ListPrice": 47.0,
+       "PriceWithoutDiscount": 47.0,
+       "FullSellingPrice": 47.0,
+       "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6IjhhMDE3YjQ0LWJhYTMtNDBkYS1hZjVjLTRhNTc5NDNjZWMyZCIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjo0NzAwLCJwcmljZVdpdGhvdXREaXNjb3VudCI6NDcwMCwic2VsbGVyIjoiMSIsImlkIjoiMzg2Mjc4NyIsImFjY291bnROYW1lIjoiY2hlZHJhdWlteCIsInNhbGVzQ2hhbm5lbCI6IjEifSwiZXhwIjoxNzg4MDU0NDY0LCJpYXQiOjE3ODgwNTI2NjQsImp0aSI6ImQyOTdhMjk1LTJjNzQtNDUyYS1hNzAwLTU0MzBlYWFiNjllOSIsImlzcyI6InNlc3Npb24vZGF0YS1zaWduZXIifQ.Fe9lObLnT4CKR1B_K_evZz3SnXPBMx-YOsfGFRwKhSHY2xqrQn7bnJs_nhaAyovDJocf0LsKwb5b0Vqmy-AYjA",
+       "RewardValue": 0.0,
+       "PriceValidUntil": "2027-08-30T01:13:16Z",
+       "AvailableQuantity": 99999,
+       "IsAvailable": true,
+       "Tax": 0.0,
+       "DeliverySlaSamples": [
+        {
+         "DeliverySlaPerTypes": [],
+         "Region": null
+        }
+       ],
+       "GetInfoErrorMessage": null,
+       "CacheVersionUsedToCallCheckout": "_",
+       "PaymentOptions": {
+        "installmentOptions": [
+         {
+          "paymentSystem": "1",
+          "bin": null,
+          "paymentName": "American Express",
+          "paymentGroupName": "creditCardPaymentGroup",
+          "value": 4700,
+          "installments": [
+           {
+            "count": 1,
+            "hasInterestRate": false,
+            "interestRate": 0,
+            "value": 4700,
+            "total": 4700,
+            "sellerMerchantInstallments": [
+             {
+              "id": "CHEDRAUIMX",
+              "count": 1,
+              "hasInterestRate": false,
+              "interestRate": 0,
+              "value": 4700,
+              "total": 4700
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "paymentSystem": "2",
+          "bin": null,
+          "paymentName": "Visa",
+          "paymentGroupName": "creditCardPaymentGroup",
+          "value": 4700,
+          "installments": [
+           {
+            "count": 1,
+            "hasInterestRate": false,
+            "interestRate": 0,
+            "value": 4700,
+            "total": 4700,
+            "sellerMerchantInstallments": [
+             {
+              "id": "CHEDRAUIMX",
+              "count": 1,
+              "hasInterestRate": false,
+              "interestRate": 0,
+              "value": 4700,
+              "total": 4700
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "paymentSystem": "4",
+          "bin": null,
+          "paymentName": "Mastercard",
+          "paymentGroupName": "creditCardPaymentGroup",
+          "value": 4700,
+          "installments": [
+           {
+            "count": 1,
+            "hasInterestRate": false,
+            "interestRate": 0,
+            "value": 4700,
+            "total": 4700,
+            "sellerMerchantInstallments": [
+             {
+              "id": "CHEDRAUIMX",
+              "count": 1,
+              "hasInterestRate": false,
+              "interestRate": 0,
+              "value": 4700,
+              "total": 4700
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "paymentSystem": "16",
+          "bin": null,
+          "paymentName": "Vale",
+          "paymentGroupName": "giftCardPaymentGroup",
+          "value": 4700,
+          "installments": [
+           {
+            "count": 1,
+            "hasInterestRate": false,
+            "interestRate": 0,
+            "value": 4700,
+            "total": 4700,
+            "sellerMerchantInstallments": [
+             {
+              "id": "CHEDRAUIMX",
+              "count": 1,
+              "hasInterestRate": false,
+              "interestRate": 0,
+              "value": 4700,
+              "total": 4700
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "paymentSystem": "127",
+          "bin": null,
+          "paymentName": "MercadoPagoPro",
+          "paymentGroupName": "MercadoPagoProPaymentGroup",
+          "value": 4700,
+          "installments": [
+           {
+            "count": 1,
+            "hasInterestRate": false,
+            "interestRate": 0,
+            "value": 4700,
+            "total": 4700,
+            "sellerMerchantInstallments": [
+             {
+              "id": "CHEDRAUIMX",
+              "count": 1,
+              "hasInterestRate": false,
+              "interestRate": 0,
+              "value": 4700,
+              "total": 4700
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "paymentSystem": "174",
+          "bin": null,
+          "paymentName": "Aplazo Payment",
+          "paymentGroupName": "aplazoPaymentGroup",
+          "value": 4700,
+          "installments": [
+           {
+            "count": 1,
+            "hasInterestRate": false,
+            "interestRate": 0,
+            "value": 4700,
+            "total": 4700,
+            "sellerMerchantInstallments": [
+             {
+              "id": "CHEDRAUIMX",
+              "count": 1,
+              "hasInterestRate": false,
+              "interestRate": 0,
+              "value": 4700,
+              "total": 4700
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "paymentSystem": "201",
+          "bin": null,
+          "paymentName": "Pago contra entrega",
+          "paymentGroupName": "custom201PaymentGroupPaymentGroup",
+          "value": 4700,
+          "installments": [
+           {
+            "count": 1,
+            "hasInterestRate": false,
+            "interestRate": 0,
+            "value": 4700,
+            "total": 4700,
+            "sellerMerchantInstallments": [
+             {
+              "id": "CHEDRAUIMX",
+              "count": 1,
+              "hasInterestRate": false,
+              "interestRate": 0,
+              "value": 4700,
+              "total": 4700
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "paymentSystem": "204",
+          "bin": null,
+          "paymentName": "KUESKI",
+          "paymentGroupName": "custom204PaymentGroupPaymentGroup",
+          "value": 4700,
+          "installments": [
+           {
+            "count": 1,
+            "hasInterestRate": false,
+            "interestRate": 0,
+            "value": 4700,
+            "total": 4700,
+            "sellerMerchantInstallments": [
+             {
+              "id": "CHEDRAUIMX",
+              "count": 1,
+              "hasInterestRate": false,
+              "interestRate": 0,
+              "value": 4700,
+              "total": 4700
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "paymentSystem": "501",
+          "bin": null,
+          "paymentName": "Puntos BBVA",
+          "paymentGroupName": "customPrivate_501PaymentGroup",
+          "value": 4700,
+          "installments": [
+           {
+            "count": 1,
+            "hasInterestRate": false,
+            "interestRate": 0,
+            "value": 4700,
+            "total": 4700,
+            "sellerMerchantInstallments": [
+             {
+              "id": "CHEDRAUIMX",
+              "count": 1,
+              "hasInterestRate": false,
+              "interestRate": 0,
+              "value": 4700,
+              "total": 4700
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "paymentSystem": "502",
+          "bin": null,
+          "paymentName": "Vales",
+          "paymentGroupName": "customPrivate_502PaymentGroup",
+          "value": 4700,
+          "installments": [
+           {
+            "count": 1,
+            "hasInterestRate": false,
+            "interestRate": 0,
+            "value": 4700,
+            "total": 4700,
+            "sellerMerchantInstallments": [
+             {
+              "id": "CHEDRAUIMX",
+              "count": 1,
+              "hasInterestRate": false,
+              "interestRate": 0,
+              "value": 4700,
+              "total": 4700
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "paymentSystem": "708",
+          "bin": null,
+          "paymentName": "Mercado Credito",
+          "paymentGroupName": "MercadoCreditoPaymentGroup",
+          "value": 4700,
+          "installments": [
+           {
+            "count": 1,
+            "hasInterestRate": false,
+            "interestRate": 0,
+            "value": 4700,
+            "total": 4700,
+            "sellerMerchantInstallments": [
+             {
+              "id": "CHEDRAUIMX",
+              "count": 1,
+              "hasInterestRate": false,
+              "interestRate": 0,
+              "value": 4700,
+              "total": 4700
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "paymentSystem": "742",
+          "bin": null,
+          "paymentName": "PayPalCheckout",
+          "paymentGroupName": "PayPalCheckoutPaymentGroup",
+          "value": 4700,
+          "installments": [
+           {
+            "count": 1,
+            "hasInterestRate": false,
+            "interestRate": 0,
+            "value": 4700,
+            "total": 4700,
+            "sellerMerchantInstallments": [
+             {
+              "id": "CHEDRAUIMX",
+              "count": 1,
+              "hasInterestRate": false,
+              "interestRate": 0,
+              "value": 4700,
+              "total": 4700
+             }
+            ]
+           }
+          ]
+         }
+        ],
+        "paymentSystems": [
+         {
+          "id": 742,
+          "name": "PayPalCheckout",
+          "groupName": "PayPalCheckoutPaymentGroup",
+          "validator": null,
+          "stringId": "742",
+          "template": "PayPalCheckoutPaymentGroup-template",
+          "requiresDocument": false,
+          "isCustom": false,
+          "description": null,
+          "requiresAuthentication": false,
+          "dueDate": "2026-09-06T01:11:27.6374844Z",
+          "availablePayments": null
+         },
+         {
+          "id": 174,
+          "name": "Aplazo Payment",
+          "groupName": "aplazoPaymentGroup",
+          "validator": null,
+          "stringId": "174",
+          "template": "aplazoPaymentGroup-template",
+          "requiresDocument": false,
+          "isCustom": false,
+          "description": null,
+          "requiresAuthentication": false,
+          "dueDate": "2026-09-06T01:11:27.6374845Z",
+          "availablePayments": null
+         },
+         {
+          "id": 204,
+          "name": "KUESKI",
+          "groupName": "custom204PaymentGroupPaymentGroup",
+          "validator": null,
+          "stringId": "204",
+          "template": "custom204PaymentGroupPaymentGroup-template",
+          "requiresDocument": false,
+          "isCustom": true,
+          "description": "Método de pago con Kueski Pay",
+          "requiresAuthentication": false,
+          "dueDate": "2026-09-02T01:12:27.6374848Z",
+          "availablePayments": null
+         },
+         {
+          "id": 708,
+          "name": "Mercado Credito",
+          "groupName": "MercadoCreditoPaymentGroup",
+          "validator": null,
+          "stringId": "708",
+          "template": "MercadoCreditoPaymentGroup-template",
+          "requiresDocument": false,
+          "isCustom": false,
+          "description": null,
+          "requiresAuthentication": false,
+          "dueDate": "2026-09-06T01:11:27.637485Z",
+          "availablePayments": null
+         },
+         {
+          "id": 127,
+          "name": "MercadoPagoPro",
+          "groupName": "MercadoPagoProPaymentGroup",
+          "validator": null,
+          "stringId": "127",
+          "template": "MercadoPagoProPaymentGroup-template",
+          "requiresDocument": false,
+          "isCustom": false,
+          "description": null,
+          "requiresAuthentication": false,
+          "dueDate": "2026-09-06T01:11:27.6374851Z",
+          "availablePayments": null
+         },
+         {
+          "id": 502,
+          "name": "Vales",
+          "groupName": "customPrivate_502PaymentGroup",
+          "validator": null,
+          "stringId": "502",
+          "template": "customPrivate_502PaymentGroup-template",
+          "requiresDocument": false,
+          "isCustom": true,
+          "description": "Vales",
+          "requiresAuthentication": false,
+          "dueDate": "2026-09-09T01:12:27.6374853Z",
+          "availablePayments": null
+         },
+         {
+          "id": 501,
+          "name": "Puntos BBVA",
+          "groupName": "customPrivate_501PaymentGroup",
+          "validator": null,
+          "stringId": "501",
+          "template": "customPrivate_501PaymentGroup-template",
+          "requiresDocument": false,
+          "isCustom": true,
+          "description": "Puntos BBVA",
+          "requiresAuthentication": false,
+          "dueDate": "2026-09-09T01:12:27.6374854Z",
+          "availablePayments": null
+         },
+         {
+          "id": 16,
+          "name": "Vale",
+          "groupName": "giftCardPaymentGroup",
+          "validator": null,
+          "stringId": "16",
+          "template": "giftCardPaymentGroup-template",
+          "requiresDocument": false,
+          "isCustom": false,
+          "description": null,
+          "requiresAuthentication": false,
+          "dueDate": "2026-09-06T01:11:27.6374856Z",
+          "availablePayments": null
+         },
+         {
+          "id": 1,
+          "name": "American Express",
+          "groupName": "creditCardPaymentGroup",
+          "validator": null,
+          "stringId": "1",
+          "template": "creditCardPaymentGroup-template",
+          "requiresDocument": false,
+          "isCustom": false,
+          "description": null,
+          "requiresAuthentication": false,
+          "dueDate": "2026-09-06T01:11:27.6374858Z",
+          "availablePayments": null
+         },
+         {
+          "id": 2,
+          "name": "Visa",
+          "groupName": "creditCardPaymentGroup",
+          "validator": null,
+          "stringId": "2",
+          "template": "creditCardPaymentGroup-template",
+          "requiresDocument": false,
+          "isCustom": false,
+          "description": null,
+          "requiresAuthentication": false,
+          "dueDate": "2026-09-06T01:11:27.6374859Z",
+          "availablePayments": null
+         },
+         {
+          "id": 4,
+          "name": "Mastercard",
+          "groupName": "creditCardPaymentGroup",
+          "validator": null,
+          "stringId": "4",
+          "template": "creditCardPaymentGroup-template",
+          "requiresDocument": false,
+          "isCustom": false,
+          "description": null,
+          "requiresAuthentication": false,
+          "dueDate": "2026-09-06T01:11:27.6374861Z",
+          "availablePayments": null
+         },
+         {
+          "id": 201,
+          "name": "Pago contra entrega",
+          "groupName": "custom201PaymentGroupPaymentGroup",
+          "validator": null,
+          "stringId": "201",
+          "template": "custom201PaymentGroupPaymentGroup-template",
+          "requiresDocument": false,
+          "isCustom": true,
+          "description": "Pagar al recibir el pedido",
+          "requiresAuthentication": false,
+          "dueDate": "2026-09-06T01:12:27.6374864Z",
+          "availablePayments": null
+         }
+        ],
+        "payments": [],
+        "giftCards": [],
+        "giftCardMessages": [],
+        "availableAccounts": [],
+        "availableTokens": []
+       }
+      }
+     }
+    ],
+    "Videos": [],
+    "estimatedDateArrival": null
+   }
+  ]
+ },
+ {
+  "productId": "3646599",
+  "productName": "Papas Fritas Chip's Sal 240g",
+  "brand": "Barcel",
+  "brandId": 534,
+  "brandImageUrl": null,
+  "linkText": "papas-fritas-chips-sal-240g-3646599",
+  "productReference": "3646599",
+  "productReferenceCode": "3646599",
+  "categoryId": "10710",
+  "productTitle": "Papas Fritas Chip's Sal 240g | Chedraui",
+  "metaTagDescription": "Las papas Chip's Sal 240g son frescas, crujientes y con un corte gruesa. Su presentación es rendidora y para compartir con los integrantes de tu familia, amigos o invitados a tus reuniones, podrás disfrutarlas con lo que más se te antoje. ¿Quieres pobrarlas? ¡Adquiérelas ahora mismo!",
+  "releaseDate": "2025-09-03T00:00:00Z",
+  "clusterHighlights": {},
+  "productClusters": {
+   "5797": "Home Vitrina Top 01 - Reuniones",
+   "11017": "Fiestas Patrias - botanas",
+   "18235": "AppHome__Botanas",
+   "19612": "Ofertas en botanas",
+   "20146": "Cenas navideñas",
+   "20395": "Ofertas para el Super Tazón",
+   "21983": "Envío gratis comprando $140 en productos Barcel participantes",
+   "22086": "Fiestas patrias"
+  },
+  "searchableClusters": {},
+  "categories": [
+   "/Supermercado/Despensa/Botanas y frutos secos/",
+   "/Supermercado/Despensa/",
+   "/Supermercado/"
+  ],
+  "categoriesIds": [
+   "/1/107/10710/",
+   "/1/107/",
+   "/1/"
+  ],
+  "link": "https://www.chedraui.com.mx/papas-fritas-chips-sal-240g-3646599/p",
+  "Benefits": [
+   "Hechas con solamente sal y aceite"
+  ],
+  "Azúcares Totales": [
+   "0 g"
+  ],
+  "Proteínas": [
+   "2 g"
+  ],
+  "Fibra Dietética": [
+   "2 g"
+  ],
+  "Carbohidratos / Hidratos de Carbono": [
+   "16 g"
+  ],
+  "Grasa Total": [
+   "2 g"
+  ],
+  "Colesterol": [
+   "0 mg"
+  ],
+  "Contenido energético por envase": [
+   "149 kcal"
+  ],
+  "Tipo de producto": [
+   "Papas y Frituras"
+  ],
+  "Contenido del empaque": [
+   "1 pieza de 240g"
+  ],
+  "Fraud Check": [
+   "FALSO"
+  ],
+  "País de Origen": [
+   "México"
+  ],
+  "Tipo de envío": [
+   "Restringido"
+  ],
+  "Benefits 3": [
+   "Elaborado con papa natural"
+  ],
+  "Benefits 2": [
+   "Aporta energía"
+  ],
+  "Identificador Externo de Categoría": [
+   "104008001"
+  ],
+  "Máximo de venta": [
+   "24"
+  ],
+  "Descripción, Larga": [
+   "Las papas Chip's Sal 240g son frescas, crujientes y con un corte gruesa. Su presentación es rendidora y para compartir con los integrantes de tu familia, amigos o invitados a tus reuniones, podrás disfrutarlas con lo que más se te antoje. ¿Quieres pobrarlas? ¡Adquiérelas ahora mismo!"
+  ],
+  "MultiEan": [
+   "757528040543-0757528040543"
+  ],
+  "Benefits 4": [
+   "Crujientes papas fritas"
+  ],
+  "Ingredientes": [
+   "Papa natural, aceite vegetal,  sal yodada. Puede contener: soya, leche, huevo,  amarillo 5 y cacahuate."
+  ],
+  "Atributos de Especificación": [
+   "Benefits",
+   "Azúcares Totales",
+   "Proteínas",
+   "Fibra Dietética",
+   "Carbohidratos / Hidratos de Carbono",
+   "Grasa Total",
+   "Colesterol",
+   "Contenido energético por envase",
+   "Tipo de producto",
+   "Contenido del empaque",
+   "Fraud Check",
+   "País de Origen",
+   "Tipo de envío",
+   "Benefits 3",
+   "Benefits 2",
+   "Identificador Externo de Categoría",
+   "Máximo de venta",
+   "Descripción, Larga",
+   "MultiEan",
+   "Benefits 4",
+   "Ingredientes"
+  ],
+  "allSpecifications": [
+   "Benefits",
+   "Azúcares Totales",
+   "Proteínas",
+   "Fibra Dietética",
+   "Carbohidratos / Hidratos de Carbono",
+   "Grasa Total",
+   "Colesterol",
+   "Contenido energético por envase",
+   "Tipo de producto",
+   "Contenido del empaque",
+   "Fraud Check",
+   "País de Origen",
+   "Tipo de envío",
+   "Benefits 3",
+   "Benefits 2",
+   "Identificador Externo de Categoría",
+   "Máximo de venta",
+   "Descripción, Larga",
+   "MultiEan",
+   "Benefits 4",
+   "Ingredientes"
+  ],
+  "allSpecificationsGroups": [
+   "Atributos de Especificación"
+  ],
+  "description": "Papas Chip's sal de mar, se volverán tu botana favorita para disfrutar a cualquier hora del día, gracias a su delicioso sabor y textura crujiente que combinan solamente tres ingredientes, aceite, sal de mar y papa 100% natural\n<div><br><b>Las imágenes del producto son únicamente de referencia, el diseño de etiquetas y el contenido (ml, L, Kg, g, piezas, etc) pueden cambiar y/o variar sin previo aviso.</b></div>",
+  "items": [
+   {
+    "itemId": "3646599",
+    "name": "Papas Fritas Chip's Sal 240g",
+    "nameComplete": "Papas Fritas Chip's Sal 240g",
+    "complementName": "",
+    "ean": "10757528040540",
+    "referenceId": [
+     {
+      "Key": "RefId",
+      "Value": "3646599"
+     }
+    ],
+    "measurementUnit": "un",
+    "unitMultiplier": 1.0,
+    "modalType": "ELECTRONICS",
+    "isKit": false,
+    "images": [
+     {
+      "imageId": "75730045",
+      "imageLabel": "757528040543_00",
+      "imageTag": "<img src=\"~/arquivos/ids/75730045-#width#-#height#/757528040543_00.jpg?v=639229337439500000\" width=\"#width#\" height=\"#height#\" alt=\"757528040543_00\" id=\"\" />",
+      "imageUrl": "https://chedrauimx.vteximg.com.br/arquivos/ids/75730045/757528040543_00.jpg?v=639229337439500000",
+      "imageText": "757528040543_00",
+      "imageLastModified": "2026-08-21T18:29:03.9500000Z"
+     },
+     {
+      "imageId": "75730046",
+      "imageLabel": "757528040543_03",
+      "imageTag": "<img src=\"~/arquivos/ids/75730046-#width#-#height#/757528040543_03.jpg?v=639229337440430000\" width=\"#width#\" height=\"#height#\" alt=\"757528040543_03\" id=\"\" />",
+      "imageUrl": "https://chedrauimx.vteximg.com.br/arquivos/ids/75730046/757528040543_03.jpg?v=639229337440430000",
+      "imageText": "757528040543_03",
+      "imageLastModified": "2026-08-21T18:29:04.0430000Z"
+     },
+     {
+      "imageId": "75730047",
+      "imageLabel": "757528040543_02",
+      "imageTag": "<img src=\"~/arquivos/ids/75730047-#width#-#height#/757528040543_02.jpg?v=639229337441400000\" width=\"#width#\" height=\"#height#\" alt=\"757528040543_02\" id=\"\" />",
+      "imageUrl": "https://chedrauimx.vteximg.com.br/arquivos/ids/75730047/757528040543_02.jpg?v=639229337441400000",
+      "imageText": "757528040543_02",
+      "imageLastModified": "2026-08-21T18:29:04.1400000Z"
+     },
+     {
+      "imageId": "75730048",
+      "imageLabel": "757528040543_01",
+      "imageTag": "<img src=\"~/arquivos/ids/75730048-#width#-#height#/757528040543_01.jpg?v=639229337442170000\" width=\"#width#\" height=\"#height#\" alt=\"757528040543_01\" id=\"\" />",
+      "imageUrl": "https://chedrauimx.vteximg.com.br/arquivos/ids/75730048/757528040543_01.jpg?v=639229337442170000",
+      "imageText": "757528040543_01",
+      "imageLastModified": "2026-08-21T18:29:04.2170000Z"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerName": "Chedraui",
+      "addToCartLink": "https://www.chedraui.com.mx/checkout/cart/add?sku=3646599&qty=1&seller=1&sc=1&price=7950&cv=_&sc=1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "DeliverySlaSamplesPerRegion": {
+        "0": {
+         "DeliverySlaPerTypes": [],
+         "Region": null
+        }
+       },
+       "Installments": [
+        {
+         "Value": 79.5,
+         "InterestRate": 0.0,
+         "TotalValuePlusInterestRate": 79.5,
+         "NumberOfInstallments": 1,
+         "PaymentSystemName": "American Express",
+         "PaymentSystemGroupName": "creditCardPaymentGroup",
+         "Name": "American Express à vista"
+        },
+        {
+         "Value": 79.5,
+         "InterestRate": 0.0,
+         "TotalValuePlusInterestRate": 79.5,
+         "NumberOfInstallments": 1,
+         "PaymentSystemName": "Visa",
+         "PaymentSystemGroupName": "creditCardPaymentGroup",
+         "Name": "Visa à vista"
+        },
+        {
+         "Value": 79.5,
+         "InterestRate": 0.0,
+         "TotalValuePlusInterestRate": 79.5,
+         "NumberOfInstallments": 1,
+         "PaymentSystemName": "Mastercard",
+         "PaymentSystemGroupName": "creditCardPaymentGroup",
+         "Name": "Mastercard à vista"
+        },
+        {
+         "Value": 79.5,
+         "InterestRate": 0.0,
+         "TotalValuePlusInterestRate": 79.5,
+         "NumberOfInstallments": 1,
+         "PaymentSystemName": "Vale",
+         "PaymentSystemGroupName": "giftCardPaymentGroup",
+         "Name": "Vale à vista"
+        },
+        {
+         "Value": 79.5,
+         "InterestRate": 0.0,
+         "TotalValuePlusInterestRate": 79.5,
+         "NumberOfInstallments": 1,
+         "PaymentSystemName": "MercadoPagoPro",
+         "PaymentSystemGroupName": "MercadoPagoProPaymentGroup",
+         "Name": "MercadoPagoPro à vista"
+        },
+        {
+         "Value": 79.5,
+         "InterestRate": 0.0,
+         "TotalValuePlusInterestRate": 79.5,
+         "NumberOfInstallments": 1,
+         "PaymentSystemName": "Aplazo Payment",
+         "PaymentSystemGroupName": "aplazoPaymentGroup",
+         "Name": "Aplazo Payment à vista"
+        },
+        {
+         "Value": 79.5,
+         "InterestRate": 0.0,
+         "TotalValuePlusInterestRate": 79.5,
+         "NumberOfInstallments": 1,
+         "PaymentSystemName": "Pago contra entrega",
+         "PaymentSystemGroupName": "custom201PaymentGroupPaymentGroup",
+         "Name": "Pago contra entrega à vista"
+        },
+        {
+         "Value": 79.5,
+         "InterestRate": 0.0,
+         "TotalValuePlusInterestRate": 79.5,
+         "NumberOfInstallments": 1,
+         "PaymentSystemName": "KUESKI",
+         "PaymentSystemGroupName": "custom204PaymentGroupPaymentGroup",
+         "Name": "KUESKI à vista"
+        },
+        {
+         "Value": 79.5,
+         "InterestRate": 0.0,
+         "TotalValuePlusInterestRate": 79.5,
+         "NumberOfInstallments": 1,
+         "PaymentSystemName": "Puntos BBVA",
+         "PaymentSystemGroupName": "customPrivate_501PaymentGroup",
+         "Name": "Puntos BBVA à vista"
+        },
+        {
+         "Value": 79.5,
+         "InterestRate": 0.0,
+         "TotalValuePlusInterestRate": 79.5,
+         "NumberOfInstallments": 1,
+         "PaymentSystemName": "Vales",
+         "PaymentSystemGroupName": "customPrivate_502PaymentGroup",
+         "Name": "Vales à vista"
+        },
+        {
+         "Value": 79.5,
+         "InterestRate": 0.0,
+         "TotalValuePlusInterestRate": 79.5,
+         "NumberOfInstallments": 1,
+         "PaymentSystemName": "Mercado Credito",
+         "PaymentSystemGroupName": "MercadoCreditoPaymentGroup",
+         "Name": "Mercado Credito à vista"
+        },
+        {
+         "Value": 79.5,
+         "InterestRate": 0.0,
+         "TotalValuePlusInterestRate": 79.5,
+         "NumberOfInstallments": 1,
+         "PaymentSystemName": "PayPalCheckout",
+         "PaymentSystemGroupName": "PayPalCheckoutPaymentGroup",
+         "Name": "PayPalCheckout à vista"
+        }
+       ],
+       "DiscountHighLight": [],
+       "GiftSkuIds": [],
+       "Teasers": [],
+       "PromotionTeasers": [],
+       "BuyTogether": [],
+       "ItemMetadataAttachment": [],
+       "Price": 79.5,
+       "ListPrice": 79.5,
+       "PriceWithoutDiscount": 79.5,
+       "FullSellingPrice": 79.5,
+       "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6IjE5MjczNWVhLWVjODQtNDE3Ni05MjVmLTNjNGM0Y2Q1ZDFmMyIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjo3OTUwLCJwcmljZVdpdGhvdXREaXNjb3VudCI6Nzk1MCwic2VsbGVyIjoiMSIsImlkIjoiMzY0NjU5OSIsImFjY291bnROYW1lIjoiY2hlZHJhdWlteCIsInNhbGVzQ2hhbm5lbCI6IjEifSwiZXhwIjoxNzg4MDU0NDY0LCJpYXQiOjE3ODgwNTI2NjQsImp0aSI6Ijg2NDg0ZDM0LTZkOWEtNGRiYi1hNDViLTVhMTY2OWMzZmUzNCIsImlzcyI6InNlc3Npb24vZGF0YS1zaWduZXIifQ.jac7YW22wKMfhJ0br8vBv354CQ9lfDEYqURxZddzT0eLuJu4kbHv70bnCX2SMeMy35RAraqV2Cqr58R3cD_HVw",
+       "RewardValue": 0.0,
+       "PriceValidUntil": "2027-08-30T01:16:56Z",
+       "AvailableQuantity": 99999,
+       "IsAvailable": true,
+       "Tax": 0.0,
+       "DeliverySlaSamples": [
+        {
+         "DeliverySlaPerTypes": [],
+         "Region": null
+        }
+       ],
+       "GetInfoErrorMessage": null,
+       "CacheVersionUsedToCallCheckout": "_",
+       "PaymentOptions": {
+        "installmentOptions": [
+         {
+          "paymentSystem": "1",
+          "bin": null,
+          "paymentName": "American Express",
+          "paymentGroupName": "creditCardPaymentGroup",
+          "value": 7950,
+          "installments": [
+           {
+            "count": 1,
+            "hasInterestRate": false,
+            "interestRate": 0,
+            "value": 7950,
+            "total": 7950,
+            "sellerMerchantInstallments": [
+             {
+              "id": "CHEDRAUIMX",
+              "count": 1,
+              "hasInterestRate": false,
+              "interestRate": 0,
+              "value": 7950,
+              "total": 7950
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "paymentSystem": "2",
+          "bin": null,
+          "paymentName": "Visa",
+          "paymentGroupName": "creditCardPaymentGroup",
+          "value": 7950,
+          "installments": [
+           {
+            "count": 1,
+            "hasInterestRate": false,
+            "interestRate": 0,
+            "value": 7950,
+            "total": 7950,
+            "sellerMerchantInstallments": [
+             {
+              "id": "CHEDRAUIMX",
+              "count": 1,
+              "hasInterestRate": false,
+              "interestRate": 0,
+              "value": 7950,
+              "total": 7950
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "paymentSystem": "4",
+          "bin": null,
+          "paymentName": "Mastercard",
+          "paymentGroupName": "creditCardPaymentGroup",
+          "value": 7950,
+          "installments": [
+           {
+            "count": 1,
+            "hasInterestRate": false,
+            "interestRate": 0,
+            "value": 7950,
+            "total": 7950,
+            "sellerMerchantInstallments": [
+             {
+              "id": "CHEDRAUIMX",
+              "count": 1,
+              "hasInterestRate": false,
+              "interestRate": 0,
+              "value": 7950,
+              "total": 7950
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "paymentSystem": "16",
+          "bin": null,
+          "paymentName": "Vale",
+          "paymentGroupName": "giftCardPaymentGroup",
+          "value": 7950,
+          "installments": [
+           {
+            "count": 1,
+            "hasInterestRate": false,
+            "interestRate": 0,
+            "value": 7950,
+            "total": 7950,
+            "sellerMerchantInstallments": [
+             {
+              "id": "CHEDRAUIMX",
+              "count": 1,
+              "hasInterestRate": false,
+              "interestRate": 0,
+              "value": 7950,
+              "total": 7950
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "paymentSystem": "127",
+          "bin": null,
+          "paymentName": "MercadoPagoPro",
+          "paymentGroupName": "MercadoPagoProPaymentGroup",
+          "value": 7950,
+          "installments": [
+           {
+            "count": 1,
+            "hasInterestRate": false,
+            "interestRate": 0,
+            "value": 7950,
+            "total": 7950,
+            "sellerMerchantInstallments": [
+             {
+              "id": "CHEDRAUIMX",
+              "count": 1,
+              "hasInterestRate": false,
+              "interestRate": 0,
+              "value": 7950,
+              "total": 7950
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "paymentSystem": "174",
+          "bin": null,
+          "paymentName": "Aplazo Payment",
+          "paymentGroupName": "aplazoPaymentGroup",
+          "value": 7950,
+          "installments": [
+           {
+            "count": 1,
+            "hasInterestRate": false,
+            "interestRate": 0,
+            "value": 7950,
+            "total": 7950,
+            "sellerMerchantInstallments": [
+             {
+              "id": "CHEDRAUIMX",
+              "count": 1,
+              "hasInterestRate": false,
+              "interestRate": 0,
+              "value": 7950,
+              "total": 7950
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "paymentSystem": "201",
+          "bin": null,
+          "paymentName": "Pago contra entrega",
+          "paymentGroupName": "custom201PaymentGroupPaymentGroup",
+          "value": 7950,
+          "installments": [
+           {
+            "count": 1,
+            "hasInterestRate": false,
+            "interestRate": 0,
+            "value": 7950,
+            "total": 7950,
+            "sellerMerchantInstallments": [
+             {
+              "id": "CHEDRAUIMX",
+              "count": 1,
+              "hasInterestRate": false,
+              "interestRate": 0,
+              "value": 7950,
+              "total": 7950
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "paymentSystem": "204",
+          "bin": null,
+          "paymentName": "KUESKI",
+          "paymentGroupName": "custom204PaymentGroupPaymentGroup",
+          "value": 7950,
+          "installments": [
+           {
+            "count": 1,
+            "hasInterestRate": false,
+            "interestRate": 0,
+            "value": 7950,
+            "total": 7950,
+            "sellerMerchantInstallments": [
+             {
+              "id": "CHEDRAUIMX",
+              "count": 1,
+              "hasInterestRate": false,
+              "interestRate": 0,
+              "value": 7950,
+              "total": 7950
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "paymentSystem": "501",
+          "bin": null,
+          "paymentName": "Puntos BBVA",
+          "paymentGroupName": "customPrivate_501PaymentGroup",
+          "value": 7950,
+          "installments": [
+           {
+            "count": 1,
+            "hasInterestRate": false,
+            "interestRate": 0,
+            "value": 7950,
+            "total": 7950,
+            "sellerMerchantInstallments": [
+             {
+              "id": "CHEDRAUIMX",
+              "count": 1,
+              "hasInterestRate": false,
+              "interestRate": 0,
+              "value": 7950,
+              "total": 7950
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "paymentSystem": "502",
+          "bin": null,
+          "paymentName": "Vales",
+          "paymentGroupName": "customPrivate_502PaymentGroup",
+          "value": 7950,
+          "installments": [
+           {
+            "count": 1,
+            "hasInterestRate": false,
+            "interestRate": 0,
+            "value": 7950,
+            "total": 7950,
+            "sellerMerchantInstallments": [
+             {
+              "id": "CHEDRAUIMX",
+              "count": 1,
+              "hasInterestRate": false,
+              "interestRate": 0,
+              "value": 7950,
+              "total": 7950
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "paymentSystem": "708",
+          "bin": null,
+          "paymentName": "Mercado Credito",
+          "paymentGroupName": "MercadoCreditoPaymentGroup",
+          "value": 7950,
+          "installments": [
+           {
+            "count": 1,
+            "hasInterestRate": false,
+            "interestRate": 0,
+            "value": 7950,
+            "total": 7950,
+            "sellerMerchantInstallments": [
+             {
+              "id": "CHEDRAUIMX",
+              "count": 1,
+              "hasInterestRate": false,
+              "interestRate": 0,
+              "value": 7950,
+              "total": 7950
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "paymentSystem": "742",
+          "bin": null,
+          "paymentName": "PayPalCheckout",
+          "paymentGroupName": "PayPalCheckoutPaymentGroup",
+          "value": 7950,
+          "installments": [
+           {
+            "count": 1,
+            "hasInterestRate": false,
+            "interestRate": 0,
+            "value": 7950,
+            "total": 7950,
+            "sellerMerchantInstallments": [
+             {
+              "id": "CHEDRAUIMX",
+              "count": 1,
+              "hasInterestRate": false,
+              "interestRate": 0,
+              "value": 7950,
+              "total": 7950
+             }
+            ]
+           }
+          ]
+         }
+        ],
+        "paymentSystems": [
+         {
+          "id": 742,
+          "name": "PayPalCheckout",
+          "groupName": "PayPalCheckoutPaymentGroup",
+          "validator": null,
+          "stringId": "742",
+          "template": "PayPalCheckoutPaymentGroup-template",
+          "requiresDocument": false,
+          "isCustom": false,
+          "description": null,
+          "requiresAuthentication": false,
+          "dueDate": "2026-09-06T01:11:27.6374844Z",
+          "availablePayments": null
+         },
+         {
+          "id": 174,
+          "name": "Aplazo Payment",
+          "groupName": "aplazoPaymentGroup",
+          "validator": null,
+          "stringId": "174",
+          "template": "aplazoPaymentGroup-template",
+          "requiresDocument": false,
+          "isCustom": false,
+          "description": null,
+          "requiresAuthentication": false,
+          "dueDate": "2026-09-06T01:11:27.6374845Z",
+          "availablePayments": null
+         },
+         {
+          "id": 204,
+          "name": "KUESKI",
+          "groupName": "custom204PaymentGroupPaymentGroup",
+          "validator": null,
+          "stringId": "204",
+          "template": "custom204PaymentGroupPaymentGroup-template",
+          "requiresDocument": false,
+          "isCustom": true,
+          "description": "Método de pago con Kueski Pay",
+          "requiresAuthentication": false,
+          "dueDate": "2026-09-02T01:12:27.6374848Z",
+          "availablePayments": null
+         },
+         {
+          "id": 708,
+          "name": "Mercado Credito",
+          "groupName": "MercadoCreditoPaymentGroup",
+          "validator": null,
+          "stringId": "708",
+          "template": "MercadoCreditoPaymentGroup-template",
+          "requiresDocument": false,
+          "isCustom": false,
+          "description": null,
+          "requiresAuthentication": false,
+          "dueDate": "2026-09-06T01:11:27.637485Z",
+          "availablePayments": null
+         },
+         {
+          "id": 127,
+          "name": "MercadoPagoPro",
+          "groupName": "MercadoPagoProPaymentGroup",
+          "validator": null,
+          "stringId": "127",
+          "template": "MercadoPagoProPaymentGroup-template",
+          "requiresDocument": false,
+          "isCustom": false,
+          "description": null,
+          "requiresAuthentication": false,
+          "dueDate": "2026-09-06T01:11:27.6374851Z",
+          "availablePayments": null
+         },
+         {
+          "id": 502,
+          "name": "Vales",
+          "groupName": "customPrivate_502PaymentGroup",
+          "validator": null,
+          "stringId": "502",
+          "template": "customPrivate_502PaymentGroup-template",
+          "requiresDocument": false,
+          "isCustom": true,
+          "description": "Vales",
+          "requiresAuthentication": false,
+          "dueDate": "2026-09-09T01:12:27.6374853Z",
+          "availablePayments": null
+         },
+         {
+          "id": 501,
+          "name": "Puntos BBVA",
+          "groupName": "customPrivate_501PaymentGroup",
+          "validator": null,
+          "stringId": "501",
+          "template": "customPrivate_501PaymentGroup-template",
+          "requiresDocument": false,
+          "isCustom": true,
+          "description": "Puntos BBVA",
+          "requiresAuthentication": false,
+          "dueDate": "2026-09-09T01:12:27.6374854Z",
+          "availablePayments": null
+         },
+         {
+          "id": 16,
+          "name": "Vale",
+          "groupName": "giftCardPaymentGroup",
+          "validator": null,
+          "stringId": "16",
+          "template": "giftCardPaymentGroup-template",
+          "requiresDocument": false,
+          "isCustom": false,
+          "description": null,
+          "requiresAuthentication": false,
+          "dueDate": "2026-09-06T01:11:27.6374856Z",
+          "availablePayments": null
+         },
+         {
+          "id": 1,
+          "name": "American Express",
+          "groupName": "creditCardPaymentGroup",
+          "validator": null,
+          "stringId": "1",
+          "template": "creditCardPaymentGroup-template",
+          "requiresDocument": false,
+          "isCustom": false,
+          "description": null,
+          "requiresAuthentication": false,
+          "dueDate": "2026-09-06T01:11:27.6374858Z",
+          "availablePayments": null
+         },
+         {
+          "id": 2,
+          "name": "Visa",
+          "groupName": "creditCardPaymentGroup",
+          "validator": null,
+          "stringId": "2",
+          "template": "creditCardPaymentGroup-template",
+          "requiresDocument": false,
+          "isCustom": false,
+          "description": null,
+          "requiresAuthentication": false,
+          "dueDate": "2026-09-06T01:11:27.6374859Z",
+          "availablePayments": null
+         },
+         {
+          "id": 4,
+          "name": "Mastercard",
+          "groupName": "creditCardPaymentGroup",
+          "validator": null,
+          "stringId": "4",
+          "template": "creditCardPaymentGroup-template",
+          "requiresDocument": false,
+          "isCustom": false,
+          "description": null,
+          "requiresAuthentication": false,
+          "dueDate": "2026-09-06T01:11:27.6374861Z",
+          "availablePayments": null
+         },
+         {
+          "id": 201,
+          "name": "Pago contra entrega",
+          "groupName": "custom201PaymentGroupPaymentGroup",
+          "validator": null,
+          "stringId": "201",
+          "template": "custom201PaymentGroupPaymentGroup-template",
+          "requiresDocument": false,
+          "isCustom": true,
+          "description": "Pagar al recibir el pedido",
+          "requiresAuthentication": false,
+          "dueDate": "2026-09-06T01:12:27.6374864Z",
+          "availablePayments": null
+         }
+        ],
+        "payments": [],
+        "giftCards": [],
+        "giftCardMessages": [],
+        "availableAccounts": [],
+        "availableTokens": []
+       }
+      }
+     }
+    ],
+    "Videos": [],
+    "estimatedDateArrival": null
+   }
+  ]
+ },
+ {
+  "productId": "3866571",
+  "productName": "Botana Cheetos Torciditos Familiar 240g",
+  "brand": "Sabritas",
+  "brandId": 5550,
+  "brandImageUrl": null,
+  "linkText": "botana-cheetos-torciditos-familiar-240g-3866571",
+  "productReference": "3866571",
+  "productReferenceCode": "3866571",
+  "categoryId": "10710",
+  "productTitle": "Botana Cheetos Torciditos Familiar 240g | Chedraui",
+  "metaTagDescription": "Cheetos Torcidito es una excelente botana para compartir en familia Ahora con más sabor y una textura crunchy que pueden comer todos los miembros de la familia. Botana ideal para saciar el antojo, Ques-abrosas formas de comer y disfrutar Cheetos. \n\n- Hechos de maíz\n- Sabor queso\n- Botana Extruida",
+  "releaseDate": "2026-08-18T00:00:00Z",
+  "clusterHighlights": {},
+  "productClusters": {
+   "19612": "Ofertas en botanas",
+   "20146": "Cenas navideñas",
+   "20395": "Ofertas para el Super Tazón",
+   "21230": "Productos Pepsico",
+   "21739": "Productos Sabritas"
+  },
+  "searchableClusters": {},
+  "categories": [
+   "/Supermercado/Despensa/Botanas y frutos secos/",
+   "/Supermercado/Despensa/",
+   "/Supermercado/"
+  ],
+  "categoriesIds": [
+   "/1/107/10710/",
+   "/1/107/",
+   "/1/"
+  ],
+  "link": "https://www.chedraui.com.mx/botana-cheetos-torciditos-familiar-240g-3866571/p",
+  "Benefits": [
+   "Sabor a queso"
+  ],
+  "Fibra Dietética": [
+   "4.2g"
+  ],
+  "Carbohidratos / Hidratos de Carbono": [
+   "52.7"
+  ],
+  "Grasa Total": [
+   "36.7g"
+  ],
+  "Azucares añadidos": [
+   "2.7"
+  ],
+  "Contenido energético por envase": [
+   "560 kcal"
+  ],
+  "Tipo de producto": [
+   "Papas"
+  ],
+  "Contenido del empaque": [
+   "1 pz de 240g"
+  ],
+  "Fraud Check": [
+   "FALSO"
+  ],
+  "Tipo de envío": [
+   "Restringido"
+  ],
+  "Benefits 3": [
+   "Elaborados con ingredientes de alta calidad"
+  ],
+  "Benefits 2": [
+   "Sabor delicioso"
+  ],
+  "Identificador Externo de Categoría": [
+   "104008003"
+  ],
+  "Máximo de venta": [
+   "12"
+  ],
+  "Descripción, Larga": [
+   "Cheetos Torcidito es una excelente botana para compartir en familia Ahora con más sabor y una textura crunchy que pueden comer todos los miembros de la familia. Botana ideal para saciar el antojo, Ques-abrosas formas de comer y disfrutar Cheetos. \n\n- Hechos de maíz\n- Sabor queso\n- Botana Extruida"
+  ],
+  "MultiEan": [
+   "7500478044306"
+  ],
+  "Benefits 4": [
+   "Hechos de sémola de maíz, Presentación ideal para compartir"
+  ],
+  "Ingredientes": [
+   "INGREDIENTES: SÉMOLA DE MAÍZ, ACEITE VEGETAL, SAZONADOR [SÓLIDOS DE LA LECHE, MALTODEXTRINA, CHILES, SAL \nYODADA, HARINA DE SOYA, QUESO, SABORIZANTES NATURALES, IDÉNTICOS AL NATURAL Y ARTIFICIALES (CONTIENEN \nCEBADA), ÁCIDO CÍTRICO, CLORURO DE POTASIO, DIÓXIDO DE SILICIO, GLUTAMATO MONOSÓDICO, CASEINATO DE SODIO, \nPROTEÍNA VEGETAL HIDROLIZADA DE SOYA, HIDROLIZADO DE LEVADURA, LECHE ENTERA FERMENTADA, TARTRAZINA Y \nSUS LACAS, AMARILLO OCASO FCF Y SUS LACAS, GUANILATO DE SODIO, INOSINATO DE SODIO, ACHIOTE, ÁCIDO LÁCTICO, \nÁCIDO FUMÁRICO, ÁCIDO MÁLICO, ÁCIDO ASCÓRBICO, ROJO ALLURA AC Y SUS LACAS], AMARILLO OCASO FCF Y SUS \nLACAS. \nCONTIENE LECHE, SOYA Y GLUTEN (CEBADA)\nPUEDE CONTENER TRIGO. V27"
+  ],
+  "Sodio": [
+   "509mg"
+  ],
+  "Atributos de Especificación": [
+   "Benefits",
+   "Fibra Dietética",
+   "Carbohidratos / Hidratos de Carbono",
+   "Grasa Total",
+   "Azucares añadidos",
+   "Contenido energético por envase",
+   "Tipo de producto",
+   "Contenido del empaque",
+   "Fraud Check",
+   "Tipo de envío",
+   "Benefits 3",
+   "Benefits 2",
+   "Identificador Externo de Categoría",
+   "Máximo de venta",
+   "Descripción, Larga",
+   "MultiEan",
+   "Benefits 4",
+   "Ingredientes",
+   "Sodio"
+  ],
+  "allSpecifications": [
+   "Benefits",
+   "Fibra Dietética",
+   "Carbohidratos / Hidratos de Carbono",
+   "Grasa Total",
+   "Azucares añadidos",
+   "Contenido energético por envase",
+   "Tipo de producto",
+   "Contenido del empaque",
+   "Fraud Check",
+   "Tipo de envío",
+   "Benefits 3",
+   "Benefits 2",
+   "Identificador Externo de Categoría",
+   "Máximo de venta",
+   "Descripción, Larga",
+   "MultiEan",
+   "Benefits 4",
+   "Ingredientes",
+   "Sodio"
+  ],
+  "allSpecificationsGroups": [
+   "Atributos de Especificación"
+  ],
+  "description": "Cheetos Torcidito es una excelente botana para compartir en familia Ahora con más sabor y una textura crunchy que pueden comer todos los miembros de la familia. \n\n- Hechos de maíz\n- Sabor queso\n- Botana Extruida\n-Más sabor.<div><br><b>Las imágenes del producto son únicamente de referencia, el diseño de etiquetas y el contenido (ml, L, Kg, g, piezas, etc) pueden cambiar y/o variar sin previo aviso.</b></div>",
+  "items": [
+   {
+    "itemId": "3866571",
+    "name": "Botana Cheetos Torciditos Familiar 240g",
+    "nameComplete": "Botana Cheetos Torciditos Familiar 240g",
+    "complementName": "",
+    "ean": "17500478044303",
+    "referenceId": [
+     {
+      "Key": "RefId",
+      "Value": "3866571"
+     }
+    ],
+    "measurementUnit": "un",
+    "unitMultiplier": 1.0,
+    "modalType": "ELECTRONICS",
+    "isKit": false,
+    "images": [
+     {
+      "imageId": "76127602",
+      "imageLabel": "7500478044306_00",
+      "imageTag": "<img src=\"~/arquivos/ids/76127602-#width#-#height#/7500478044306_00.jpg?v=639235416395500000\" width=\"#width#\" height=\"#height#\" alt=\"7500478044306_00\" id=\"\" />",
+      "imageUrl": "https://chedrauimx.vteximg.com.br/arquivos/ids/76127602/7500478044306_00.jpg?v=639235416395500000",
+      "imageText": "7500478044306_00",
+      "imageLastModified": "2026-08-28T19:20:39.5500000Z"
+     },
+     {
+      "imageId": "76127603",
+      "imageLabel": "7500478044306_01",
+      "imageTag": "<img src=\"~/arquivos/ids/76127603-#width#-#height#/7500478044306_01.jpg?v=639235416396470000\" width=\"#width#\" height=\"#height#\" alt=\"7500478044306_01\" id=\"\" />",
+      "imageUrl": "https://chedrauimx.vteximg.com.br/arquivos/ids/76127603/7500478044306_01.jpg?v=639235416396470000",
+      "imageText": "7500478044306_01",
+      "imageLastModified": "2026-08-28T19:20:39.6470000Z"
+     },
+     {
+      "imageId": "76127604",
+      "imageLabel": "7500478044306_02",
+      "imageTag": "<img src=\"~/arquivos/ids/76127604-#width#-#height#/7500478044306_02.jpg?v=639235416397870000\" width=\"#width#\" height=\"#height#\" alt=\"7500478044306_02\" id=\"\" />",
+      "imageUrl": "https://chedrauimx.vteximg.com.br/arquivos/ids/76127604/7500478044306_02.jpg?v=639235416397870000",
+      "imageText": "7500478044306_02",
+      "imageLastModified": "2026-08-28T19:20:39.7870000Z"
+     },
+     {
+      "imageId": "76127605",
+      "imageLabel": "7500478044306_03",
+      "imageTag": "<img src=\"~/arquivos/ids/76127605-#width#-#height#/7500478044306_03.jpg?v=639235416400030000\" width=\"#width#\" height=\"#height#\" alt=\"7500478044306_03\" id=\"\" />",
+      "imageUrl": "https://chedrauimx.vteximg.com.br/arquivos/ids/76127605/7500478044306_03.jpg?v=639235416400030000",
+      "imageText": "7500478044306_03",
+      "imageLastModified": "2026-08-28T19:20:40.0030000Z"
+     },
+     {
+      "imageId": "76127606",
+      "imageLabel": "7500478044306_04",
+      "imageTag": "<img src=\"~/arquivos/ids/76127606-#width#-#height#/7500478044306_04.jpg?v=639235416401300000\" width=\"#width#\" height=\"#height#\" alt=\"7500478044306_04\" id=\"\" />",
+      "imageUrl": "https://chedrauimx.vteximg.com.br/arquivos/ids/76127606/7500478044306_04.jpg?v=639235416401300000",
+      "imageText": "7500478044306_04",
+      "imageLastModified": "2026-08-28T19:20:40.1300000Z"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerName": "Chedraui",
+      "addToCartLink": "https://www.chedraui.com.mx/checkout/cart/add?sku=3866571&qty=1&seller=1&sc=1&price=5200&cv=_&sc=1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "DeliverySlaSamplesPerRegion": {
+        "0": {
+         "DeliverySlaPerTypes": [],
+         "Region": null
+        }
+       },
+       "Installments": [
+        {
+         "Value": 52.0,
+         "InterestRate": 0.0,
+         "TotalValuePlusInterestRate": 52.0,
+         "NumberOfInstallments": 1,
+         "PaymentSystemName": "American Express",
+         "PaymentSystemGroupName": "creditCardPaymentGroup",
+         "Name": "American Express à vista"
+        },
+        {
+         "Value": 52.0,
+         "InterestRate": 0.0,
+         "TotalValuePlusInterestRate": 52.0,
+         "NumberOfInstallments": 1,
+         "PaymentSystemName": "Visa",
+         "PaymentSystemGroupName": "creditCardPaymentGroup",
+         "Name": "Visa à vista"
+        },
+        {
+         "Value": 52.0,
+         "InterestRate": 0.0,
+         "TotalValuePlusInterestRate": 52.0,
+         "NumberOfInstallments": 1,
+         "PaymentSystemName": "Mastercard",
+         "PaymentSystemGroupName": "creditCardPaymentGroup",
+         "Name": "Mastercard à vista"
+        },
+        {
+         "Value": 52.0,
+         "InterestRate": 0.0,
+         "TotalValuePlusInterestRate": 52.0,
+         "NumberOfInstallments": 1,
+         "PaymentSystemName": "Vale",
+         "PaymentSystemGroupName": "giftCardPaymentGroup",
+         "Name": "Vale à vista"
+        },
+        {
+         "Value": 52.0,
+         "InterestRate": 0.0,
+         "TotalValuePlusInterestRate": 52.0,
+         "NumberOfInstallments": 1,
+         "PaymentSystemName": "MercadoPagoPro",
+         "PaymentSystemGroupName": "MercadoPagoProPaymentGroup",
+         "Name": "MercadoPagoPro à vista"
+        },
+        {
+         "Value": 52.0,
+         "InterestRate": 0.0,
+         "TotalValuePlusInterestRate": 52.0,
+         "NumberOfInstallments": 1,
+         "PaymentSystemName": "Aplazo Payment",
+         "PaymentSystemGroupName": "aplazoPaymentGroup",
+         "Name": "Aplazo Payment à vista"
+        },
+        {
+         "Value": 52.0,
+         "InterestRate": 0.0,
+         "TotalValuePlusInterestRate": 52.0,
+         "NumberOfInstallments": 1,
+         "PaymentSystemName": "Pago contra entrega",
+         "PaymentSystemGroupName": "custom201PaymentGroupPaymentGroup",
+         "Name": "Pago contra entrega à vista"
+        },
+        {
+         "Value": 52.0,
+         "InterestRate": 0.0,
+         "TotalValuePlusInterestRate": 52.0,
+         "NumberOfInstallments": 1,
+         "PaymentSystemName": "KUESKI",
+         "PaymentSystemGroupName": "custom204PaymentGroupPaymentGroup",
+         "Name": "KUESKI à vista"
+        },
+        {
+         "Value": 52.0,
+         "InterestRate": 0.0,
+         "TotalValuePlusInterestRate": 52.0,
+         "NumberOfInstallments": 1,
+         "PaymentSystemName": "Puntos BBVA",
+         "PaymentSystemGroupName": "customPrivate_501PaymentGroup",
+         "Name": "Puntos BBVA à vista"
+        },
+        {
+         "Value": 52.0,
+         "InterestRate": 0.0,
+         "TotalValuePlusInterestRate": 52.0,
+         "NumberOfInstallments": 1,
+         "PaymentSystemName": "Vales",
+         "PaymentSystemGroupName": "customPrivate_502PaymentGroup",
+         "Name": "Vales à vista"
+        },
+        {
+         "Value": 52.0,
+         "InterestRate": 0.0,
+         "TotalValuePlusInterestRate": 52.0,
+         "NumberOfInstallments": 1,
+         "PaymentSystemName": "Mercado Credito",
+         "PaymentSystemGroupName": "MercadoCreditoPaymentGroup",
+         "Name": "Mercado Credito à vista"
+        },
+        {
+         "Value": 52.0,
+         "InterestRate": 0.0,
+         "TotalValuePlusInterestRate": 52.0,
+         "NumberOfInstallments": 1,
+         "PaymentSystemName": "PayPalCheckout",
+         "PaymentSystemGroupName": "PayPalCheckoutPaymentGroup",
+         "Name": "PayPalCheckout à vista"
+        }
+       ],
+       "DiscountHighLight": [],
+       "GiftSkuIds": [],
+       "Teasers": [],
+       "PromotionTeasers": [],
+       "BuyTogether": [],
+       "ItemMetadataAttachment": [],
+       "Price": 52.0,
+       "ListPrice": 60.0,
+       "PriceWithoutDiscount": 52.0,
+       "FullSellingPrice": 52.0,
+       "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6IjM4MzllMDNiLTBjZTEtNDYyMC1hODExLTNmNDU1NGJkYTU5NyIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjo1MjAwLCJwcmljZVdpdGhvdXREaXNjb3VudCI6NTIwMCwic2VsbGVyIjoiMSIsImlkIjoiMzg2NjU3MSIsImFjY291bnROYW1lIjoiY2hlZHJhdWlteCIsInNhbGVzQ2hhbm5lbCI6IjEifSwiZXhwIjoxNzg4MDU0NDY0LCJpYXQiOjE3ODgwNTI2NjQsImp0aSI6IjhlMDc0YTE0LTZiODItNDliMC1hMTE0LWExN2RmMWE3MWJjOCIsImlzcyI6InNlc3Npb24vZGF0YS1zaWduZXIifQ.BPuj7SIOg7NEpZGIvN8NjR-QxqxiCxa6Az-LrT87UWwTT6sokf1G6vT_5yvhRYqcB409944nX97hSgRa4-dBTQ",
+       "RewardValue": 0.0,
+       "PriceValidUntil": "2027-08-29T00:00:00Z",
+       "AvailableQuantity": 99999,
+       "IsAvailable": true,
+       "Tax": 0.0,
+       "DeliverySlaSamples": [
+        {
+         "DeliverySlaPerTypes": [],
+         "Region": null
+        }
+       ],
+       "GetInfoErrorMessage": null,
+       "CacheVersionUsedToCallCheckout": "_",
+       "PaymentOptions": {
+        "installmentOptions": [
+         {
+          "paymentSystem": "1",
+          "bin": null,
+          "paymentName": "American Express",
+          "paymentGroupName": "creditCardPaymentGroup",
+          "value": 5200,
+          "installments": [
+           {
+            "count": 1,
+            "hasInterestRate": false,
+            "interestRate": 0,
+            "value": 5200,
+            "total": 5200,
+            "sellerMerchantInstallments": [
+             {
+              "id": "CHEDRAUIMX",
+              "count": 1,
+              "hasInterestRate": false,
+              "interestRate": 0,
+              "value": 5200,
+              "total": 5200
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "paymentSystem": "2",
+          "bin": null,
+          "paymentName": "Visa",
+          "paymentGroupName": "creditCardPaymentGroup",
+          "value": 5200,
+          "installments": [
+           {
+            "count": 1,
+            "hasInterestRate": false,
+            "interestRate": 0,
+            "value": 5200,
+            "total": 5200,
+            "sellerMerchantInstallments": [
+             {
+              "id": "CHEDRAUIMX",
+              "count": 1,
+              "hasInterestRate": false,
+              "interestRate": 0,
+              "value": 5200,
+              "total": 5200
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "paymentSystem": "4",
+          "bin": null,
+          "paymentName": "Mastercard",
+          "paymentGroupName": "creditCardPaymentGroup",
+          "value": 5200,
+          "installments": [
+           {
+            "count": 1,
+            "hasInterestRate": false,
+            "interestRate": 0,
+            "value": 5200,
+            "total": 5200,
+            "sellerMerchantInstallments": [
+             {
+              "id": "CHEDRAUIMX",
+              "count": 1,
+              "hasInterestRate": false,
+              "interestRate": 0,
+              "value": 5200,
+              "total": 5200
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "paymentSystem": "16",
+          "bin": null,
+          "paymentName": "Vale",
+          "paymentGroupName": "giftCardPaymentGroup",
+          "value": 5200,
+          "installments": [
+           {
+            "count": 1,
+            "hasInterestRate": false,
+            "interestRate": 0,
+            "value": 5200,
+            "total": 5200,
+            "sellerMerchantInstallments": [
+             {
+              "id": "CHEDRAUIMX",
+              "count": 1,
+              "hasInterestRate": false,
+              "interestRate": 0,
+              "value": 5200,
+              "total": 5200
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "paymentSystem": "127",
+          "bin": null,
+          "paymentName": "MercadoPagoPro",
+          "paymentGroupName": "MercadoPagoProPaymentGroup",
+          "value": 5200,
+          "installments": [
+           {
+            "count": 1,
+            "hasInterestRate": false,
+            "interestRate": 0,
+            "value": 5200,
+            "total": 5200,
+            "sellerMerchantInstallments": [
+             {
+              "id": "CHEDRAUIMX",
+              "count": 1,
+              "hasInterestRate": false,
+              "interestRate": 0,
+              "value": 5200,
+              "total": 5200
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "paymentSystem": "174",
+          "bin": null,
+          "paymentName": "Aplazo Payment",
+          "paymentGroupName": "aplazoPaymentGroup",
+          "value": 5200,
+          "installments": [
+           {
+            "count": 1,
+            "hasInterestRate": false,
+            "interestRate": 0,
+            "value": 5200,
+            "total": 5200,
+            "sellerMerchantInstallments": [
+             {
+              "id": "CHEDRAUIMX",
+              "count": 1,
+              "hasInterestRate": false,
+              "interestRate": 0,
+              "value": 5200,
+              "total": 5200
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "paymentSystem": "201",
+          "bin": null,
+          "paymentName": "Pago contra entrega",
+          "paymentGroupName": "custom201PaymentGroupPaymentGroup",
+          "value": 5200,
+          "installments": [
+           {
+            "count": 1,
+            "hasInterestRate": false,
+            "interestRate": 0,
+            "value": 5200,
+            "total": 5200,
+            "sellerMerchantInstallments": [
+             {
+              "id": "CHEDRAUIMX",
+              "count": 1,
+              "hasInterestRate": false,
+              "interestRate": 0,
+              "value": 5200,
+              "total": 5200
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "paymentSystem": "204",
+          "bin": null,
+          "paymentName": "KUESKI",
+          "paymentGroupName": "custom204PaymentGroupPaymentGroup",
+          "value": 5200,
+          "installments": [
+           {
+            "count": 1,
+            "hasInterestRate": false,
+            "interestRate": 0,
+            "value": 5200,
+            "total": 5200,
+            "sellerMerchantInstallments": [
+             {
+              "id": "CHEDRAUIMX",
+              "count": 1,
+              "hasInterestRate": false,
+              "interestRate": 0,
+              "value": 5200,
+              "total": 5200
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "paymentSystem": "501",
+          "bin": null,
+          "paymentName": "Puntos BBVA",
+          "paymentGroupName": "customPrivate_501PaymentGroup",
+          "value": 5200,
+          "installments": [
+           {
+            "count": 1,
+            "hasInterestRate": false,
+            "interestRate": 0,
+            "value": 5200,
+            "total": 5200,
+            "sellerMerchantInstallments": [
+             {
+              "id": "CHEDRAUIMX",
+              "count": 1,
+              "hasInterestRate": false,
+              "interestRate": 0,
+              "value": 5200,
+              "total": 5200
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "paymentSystem": "502",
+          "bin": null,
+          "paymentName": "Vales",
+          "paymentGroupName": "customPrivate_502PaymentGroup",
+          "value": 5200,
+          "installments": [
+           {
+            "count": 1,
+            "hasInterestRate": false,
+            "interestRate": 0,
+            "value": 5200,
+            "total": 5200,
+            "sellerMerchantInstallments": [
+             {
+              "id": "CHEDRAUIMX",
+              "count": 1,
+              "hasInterestRate": false,
+              "interestRate": 0,
+              "value": 5200,
+              "total": 5200
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "paymentSystem": "708",
+          "bin": null,
+          "paymentName": "Mercado Credito",
+          "paymentGroupName": "MercadoCreditoPaymentGroup",
+          "value": 5200,
+          "installments": [
+           {
+            "count": 1,
+            "hasInterestRate": false,
+            "interestRate": 0,
+            "value": 5200,
+            "total": 5200,
+            "sellerMerchantInstallments": [
+             {
+              "id": "CHEDRAUIMX",
+              "count": 1,
+              "hasInterestRate": false,
+              "interestRate": 0,
+              "value": 5200,
+              "total": 5200
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "paymentSystem": "742",
+          "bin": null,
+          "paymentName": "PayPalCheckout",
+          "paymentGroupName": "PayPalCheckoutPaymentGroup",
+          "value": 5200,
+          "installments": [
+           {
+            "count": 1,
+            "hasInterestRate": false,
+            "interestRate": 0,
+            "value": 5200,
+            "total": 5200,
+            "sellerMerchantInstallments": [
+             {
+              "id": "CHEDRAUIMX",
+              "count": 1,
+              "hasInterestRate": false,
+              "interestRate": 0,
+              "value": 5200,
+              "total": 5200
+             }
+            ]
+           }
+          ]
+         }
+        ],
+        "paymentSystems": [
+         {
+          "id": 742,
+          "name": "PayPalCheckout",
+          "groupName": "PayPalCheckoutPaymentGroup",
+          "validator": null,
+          "stringId": "742",
+          "template": "PayPalCheckoutPaymentGroup-template",
+          "requiresDocument": false,
+          "isCustom": false,
+          "description": null,
+          "requiresAuthentication": false,
+          "dueDate": "2026-09-05T23:00:00Z",
+          "availablePayments": null
+         },
+         {
+          "id": 174,
+          "name": "Aplazo Payment",
+          "groupName": "aplazoPaymentGroup",
+          "validator": null,
+          "stringId": "174",
+          "template": "aplazoPaymentGroup-template",
+          "requiresDocument": false,
+          "isCustom": false,
+          "description": null,
+          "requiresAuthentication": false,
+          "dueDate": "2026-09-05T23:00:00Z",
+          "availablePayments": null
+         },
+         {
+          "id": 204,
+          "name": "KUESKI",
+          "groupName": "custom204PaymentGroupPaymentGroup",
+          "validator": null,
+          "stringId": "204",
+          "template": "custom204PaymentGroupPaymentGroup-template",
+          "requiresDocument": false,
+          "isCustom": true,
+          "description": "Método de pago con Kueski Pay",
+          "requiresAuthentication": false,
+          "dueDate": "2026-09-01T23:00:00Z",
+          "availablePayments": null
+         },
+         {
+          "id": 708,
+          "name": "Mercado Credito",
+          "groupName": "MercadoCreditoPaymentGroup",
+          "validator": null,
+          "stringId": "708",
+          "template": "MercadoCreditoPaymentGroup-template",
+          "requiresDocument": false,
+          "isCustom": false,
+          "description": null,
+          "requiresAuthentication": false,
+          "dueDate": "2026-09-05T23:00:00Z",
+          "availablePayments": null
+         },
+         {
+          "id": 127,
+          "name": "MercadoPagoPro",
+          "groupName": "MercadoPagoProPaymentGroup",
+          "validator": null,
+          "stringId": "127",
+          "template": "MercadoPagoProPaymentGroup-template",
+          "requiresDocument": false,
+          "isCustom": false,
+          "description": null,
+          "requiresAuthentication": false,
+          "dueDate": "2026-09-05T23:00:00Z",
+          "availablePayments": null
+         },
+         {
+          "id": 502,
+          "name": "Vales",
+          "groupName": "customPrivate_502PaymentGroup",
+          "validator": null,
+          "stringId": "502",
+          "template": "customPrivate_502PaymentGroup-template",
+          "requiresDocument": false,
+          "isCustom": true,
+          "description": "Vales",
+          "requiresAuthentication": false,
+          "dueDate": "2026-09-08T00:00:00Z",
+          "availablePayments": null
+         },
+         {
+          "id": 501,
+          "name": "Puntos BBVA",
+          "groupName": "customPrivate_501PaymentGroup",
+          "validator": null,
+          "stringId": "501",
+          "template": "customPrivate_501PaymentGroup-template",
+          "requiresDocument": false,
+          "isCustom": true,
+          "description": "Puntos BBVA",
+          "requiresAuthentication": false,
+          "dueDate": "2026-09-08T00:00:00Z",
+          "availablePayments": null
+         },
+         {
+          "id": 16,
+          "name": "Vale",
+          "groupName": "giftCardPaymentGroup",
+          "validator": null,
+          "stringId": "16",
+          "template": "giftCardPaymentGroup-template",
+          "requiresDocument": false,
+          "isCustom": false,
+          "description": null,
+          "requiresAuthentication": false,
+          "dueDate": "2026-09-05T23:00:00Z",
+          "availablePayments": null
+         },
+         {
+          "id": 1,
+          "name": "American Express",
+          "groupName": "creditCardPaymentGroup",
+          "validator": null,
+          "stringId": "1",
+          "template": "creditCardPaymentGroup-template",
+          "requiresDocument": false,
+          "isCustom": false,
+          "description": null,
+          "requiresAuthentication": false,
+          "dueDate": "2026-09-05T23:00:00Z",
+          "availablePayments": null
+         },
+         {
+          "id": 2,
+          "name": "Visa",
+          "groupName": "creditCardPaymentGroup",
+          "validator": null,
+          "stringId": "2",
+          "template": "creditCardPaymentGroup-template",
+          "requiresDocument": false,
+          "isCustom": false,
+          "description": null,
+          "requiresAuthentication": false,
+          "dueDate": "2026-09-05T23:00:00Z",
+          "availablePayments": null
+         },
+         {
+          "id": 4,
+          "name": "Mastercard",
+          "groupName": "creditCardPaymentGroup",
+          "validator": null,
+          "stringId": "4",
+          "template": "creditCardPaymentGroup-template",
+          "requiresDocument": false,
+          "isCustom": false,
+          "description": null,
+          "requiresAuthentication": false,
+          "dueDate": "2026-09-05T23:00:00Z",
+          "availablePayments": null
+         },
+         {
+          "id": 201,
+          "name": "Pago contra entrega",
+          "groupName": "custom201PaymentGroupPaymentGroup",
+          "validator": null,
+          "stringId": "201",
+          "template": "custom201PaymentGroupPaymentGroup-template",
+          "requiresDocument": false,
+          "isCustom": true,
+          "description": "Pagar al recibir el pedido",
+          "requiresAuthentication": false,
+          "dueDate": "2026-09-05T23:00:00Z",
+          "availablePayments": null
+         }
+        ],
+        "payments": [],
+        "giftCards": [],
+        "giftCardMessages": [],
+        "availableAccounts": [],
+        "availableTokens": []
+       }
+      }
+     }
+    ],
+    "Videos": [],
+    "estimatedDateArrival": null
+   }
+  ]
+ },
+ {
+  "productId": "3804651",
+  "productName": "Nuez Selecto Pecana 180g",
+  "brand": "Selecto Brand",
+  "brandId": 6955,
+  "brandImageUrl": null,
+  "linkText": "nuez-selecto-pecana-180g-3804651",
+  "productReference": "3804651",
+  "productReferenceCode": "3804651",
+  "categoryId": "10710",
+  "productTitle": "Nuez Selecto Pecana 180g | Chedraui",
+  "metaTagDescription": "Prepara tu despensa en unos cuantos clics y descubre nuestra gran variedad de productos. ¡No salgas de casa, nosotros te llevamos el súper!",
+  "releaseDate": "2025-09-03T00:00:00Z",
+  "clusterHighlights": {},
+  "productClusters": {
+   "17026": "Festival de nuestras marcas",
+   "17126": "Productos Selecto",
+   "20043": "SelectoApp_BtnTopMenu"
+  },
+  "searchableClusters": {},
+  "categories": [
+   "/Supermercado/Despensa/Botanas y frutos secos/",
+   "/Supermercado/Despensa/",
+   "/Supermercado/"
+  ],
+  "categoriesIds": [
+   "/1/107/10710/",
+   "/1/107/",
+   "/1/"
+  ],
+  "link": "https://www.chedraui.com.mx/nuez-selecto-pecana-180g-3804651/p",
+  "Benefits": [
+   "Nuez Pecana"
+  ],
+  "Tipo de producto": [
+   "Cacahuates, Nueces y Semillas"
+  ],
+  "Contenido del empaque": [
+   "1 pieza de 180g"
+  ],
+  "Fraud Check": [
+   "FALSO"
+  ],
+  "Tipo de envío": [
+   "Restringido"
+  ],
+  "Benefits 3": [
+   "Delicioso sabor"
+  ],
+  "Benefits 2": [
+   "Selección Natural"
+  ],
+  "Identificador Externo de Categoría": [
+   "103009003"
+  ],
+  "Máximo de venta": [
+   "12"
+  ],
+  "Descripción, Larga": [
+   "Prepara tu despensa en unos cuantos clics y descubre nuestra gran variedad de productos. ¡No salgas de casa, nosotros te llevamos el súper!"
+  ],
+  "MultiEan": [
+   "7501253682676"
+  ],
+  "Atributos de Especificación": [
+   "Benefits",
+   "Tipo de producto",
+   "Contenido del empaque",
+   "Fraud Check",
+   "Tipo de envío",
+   "Benefits 3",
+   "Benefits 2",
+   "Identificador Externo de Categoría",
+   "Máximo de venta",
+   "Descripción, Larga",
+   "MultiEan"
+  ],
+  "allSpecifications": [
+   "Benefits",
+   "Tipo de producto",
+   "Contenido del empaque",
+   "Fraud Check",
+   "Tipo de envío",
+   "Benefits 3",
+   "Benefits 2",
+   "Identificador Externo de Categoría",
+   "Máximo de venta",
+   "Descripción, Larga",
+   "MultiEan"
+  ],
+  "allSpecificationsGroups": [
+   "Atributos de Especificación"
+  ],
+  "description": "Nuez Selecto Pecana 180g\n<div><br><b>Las imágenes del producto son únicamente de referencia, el diseños de etiquetas y el contenido (ml, L, Kg, g, piezas, etc) pueden cambiar y/o variar sin previo aviso.</b></div>",
+  "items": [
+   {
+    "itemId": "3804651",
+    "name": "Nuez Selecto Pecana 180g",
+    "nameComplete": "Nuez Selecto Pecana 180g",
+    "complementName": "",
+    "ean": "7501253682676",
+    "referenceId": [
+     {
+      "Key": "RefId",
+      "Value": "3804651"
+     }
+    ],
+    "measurementUnit": "un",
+    "unitMultiplier": 1.0,
+    "modalType": "ELECTRONICS",
+    "isKit": false,
+    "images": [
+     {
+      "imageId": "75754939",
+      "imageLabel": "7501253682676_00",
+      "imageTag": "<img src=\"~/arquivos/ids/75754939-#width#-#height#/7501253682676_00.jpg?v=639229395116900000\" width=\"#width#\" height=\"#height#\" alt=\"7501253682676_00\" id=\"\" />",
+      "imageUrl": "https://chedrauimx.vteximg.com.br/arquivos/ids/75754939/7501253682676_00.jpg?v=639229395116900000",
+      "imageText": "7501253682676_00",
+      "imageLastModified": "2026-08-21T20:05:11.6900000Z"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerName": "Chedraui",
+      "addToCartLink": "https://www.chedraui.com.mx/checkout/cart/add?sku=3804651&qty=1&seller=1&sc=1&price=9500&cv=_&sc=1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "DeliverySlaSamplesPerRegion": {
+        "0": {
+         "DeliverySlaPerTypes": [],
+         "Region": null
+        }
+       },
+       "Installments": [
+        {
+         "Value": 95.0,
+         "InterestRate": 0.0,
+         "TotalValuePlusInterestRate": 95.0,
+         "NumberOfInstallments": 1,
+         "PaymentSystemName": "American Express",
+         "PaymentSystemGroupName": "creditCardPaymentGroup",
+         "Name": "American Express à vista"
+        },
+        {
+         "Value": 95.0,
+         "InterestRate": 0.0,
+         "TotalValuePlusInterestRate": 95.0,
+         "NumberOfInstallments": 1,
+         "PaymentSystemName": "Visa",
+         "PaymentSystemGroupName": "creditCardPaymentGroup",
+         "Name": "Visa à vista"
+        },
+        {
+         "Value": 95.0,
+         "InterestRate": 0.0,
+         "TotalValuePlusInterestRate": 95.0,
+         "NumberOfInstallments": 1,
+         "PaymentSystemName": "Mastercard",
+         "PaymentSystemGroupName": "creditCardPaymentGroup",
+         "Name": "Mastercard à vista"
+        },
+        {
+         "Value": 95.0,
+         "InterestRate": 0.0,
+         "TotalValuePlusInterestRate": 95.0,
+         "NumberOfInstallments": 1,
+         "PaymentSystemName": "Vale",
+         "PaymentSystemGroupName": "giftCardPaymentGroup",
+         "Name": "Vale à vista"
+        },
+        {
+         "Value": 95.0,
+         "InterestRate": 0.0,
+         "TotalValuePlusInterestRate": 95.0,
+         "NumberOfInstallments": 1,
+         "PaymentSystemName": "MercadoPagoPro",
+         "PaymentSystemGroupName": "MercadoPagoProPaymentGroup",
+         "Name": "MercadoPagoPro à vista"
+        },
+        {
+         "Value": 95.0,
+         "InterestRate": 0.0,
+         "TotalValuePlusInterestRate": 95.0,
+         "NumberOfInstallments": 1,
+         "PaymentSystemName": "Aplazo Payment",
+         "PaymentSystemGroupName": "aplazoPaymentGroup",
+         "Name": "Aplazo Payment à vista"
+        },
+        {
+         "Value": 95.0,
+         "InterestRate": 0.0,
+         "TotalValuePlusInterestRate": 95.0,
+         "NumberOfInstallments": 1,
+         "PaymentSystemName": "Pago contra entrega",
+         "PaymentSystemGroupName": "custom201PaymentGroupPaymentGroup",
+         "Name": "Pago contra entrega à vista"
+        },
+        {
+         "Value": 95.0,
+         "InterestRate": 0.0,
+         "TotalValuePlusInterestRate": 95.0,
+         "NumberOfInstallments": 1,
+         "PaymentSystemName": "KUESKI",
+         "PaymentSystemGroupName": "custom204PaymentGroupPaymentGroup",
+         "Name": "KUESKI à vista"
+        },
+        {
+         "Value": 95.0,
+         "InterestRate": 0.0,
+         "TotalValuePlusInterestRate": 95.0,
+         "NumberOfInstallments": 1,
+         "PaymentSystemName": "Puntos BBVA",
+         "PaymentSystemGroupName": "customPrivate_501PaymentGroup",
+         "Name": "Puntos BBVA à vista"
+        },
+        {
+         "Value": 95.0,
+         "InterestRate": 0.0,
+         "TotalValuePlusInterestRate": 95.0,
+         "NumberOfInstallments": 1,
+         "PaymentSystemName": "Vales",
+         "PaymentSystemGroupName": "customPrivate_502PaymentGroup",
+         "Name": "Vales à vista"
+        },
+        {
+         "Value": 95.0,
+         "InterestRate": 0.0,
+         "TotalValuePlusInterestRate": 95.0,
+         "NumberOfInstallments": 1,
+         "PaymentSystemName": "Mercado Credito",
+         "PaymentSystemGroupName": "MercadoCreditoPaymentGroup",
+         "Name": "Mercado Credito à vista"
+        },
+        {
+         "Value": 95.0,
+         "InterestRate": 0.0,
+         "TotalValuePlusInterestRate": 95.0,
+         "NumberOfInstallments": 1,
+         "PaymentSystemName": "PayPalCheckout",
+         "PaymentSystemGroupName": "PayPalCheckoutPaymentGroup",
+         "Name": "PayPalCheckout à vista"
+        }
+       ],
+       "DiscountHighLight": [],
+       "GiftSkuIds": [],
+       "Teasers": [],
+       "PromotionTeasers": [],
+       "BuyTogether": [],
+       "ItemMetadataAttachment": [],
+       "Price": 95.0,
+       "ListPrice": 95.0,
+       "PriceWithoutDiscount": 95.0,
+       "FullSellingPrice": 95.0,
+       "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6IjE5OWMxMjBjLTJjMTEtNDhmYi1iNDYxLTFmMmQwZjZkN2E1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjo5NTAwLCJwcmljZVdpdGhvdXREaXNjb3VudCI6OTUwMCwic2VsbGVyIjoiMSIsImlkIjoiMzgwNDY1MSIsImFjY291bnROYW1lIjoiY2hlZHJhdWlteCIsInNhbGVzQ2hhbm5lbCI6IjEifSwiZXhwIjoxNzg4MDU0NDY0LCJpYXQiOjE3ODgwNTI2NjQsImp0aSI6ImVlNWI2ZTlhLTRhM2MtNGY1OS05YTM5LTU4YjIyNGVjMDEzYiIsImlzcyI6InNlc3Npb24vZGF0YS1zaWduZXIifQ.91CS9dQ2I4SpXfzs78IhAh-CqUPEdDNBexRdSHWvNLBmt-anRFFofprAhh0INbyYLScDU2vAANRiHRDFakCwSQ",
+       "RewardValue": 0.0,
+       "PriceValidUntil": "2027-08-30T00:00:00Z",
+       "AvailableQuantity": 99999,
+       "IsAvailable": true,
+       "Tax": 0.0,
+       "DeliverySlaSamples": [
+        {
+         "DeliverySlaPerTypes": [],
+         "Region": null
+        }
+       ],
+       "GetInfoErrorMessage": null,
+       "CacheVersionUsedToCallCheckout": "_",
+       "PaymentOptions": {
+        "installmentOptions": [
+         {
+          "paymentSystem": "1",
+          "bin": null,
+          "paymentName": "American Express",
+          "paymentGroupName": "creditCardPaymentGroup",
+          "value": 9500,
+          "installments": [
+           {
+            "count": 1,
+            "hasInterestRate": false,
+            "interestRate": 0,
+            "value": 9500,
+            "total": 9500,
+            "sellerMerchantInstallments": [
+             {
+              "id": "CHEDRAUIMX",
+              "count": 1,
+              "hasInterestRate": false,
+              "interestRate": 0,
+              "value": 9500,
+              "total": 9500
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "paymentSystem": "2",
+          "bin": null,
+          "paymentName": "Visa",
+          "paymentGroupName": "creditCardPaymentGroup",
+          "value": 9500,
+          "installments": [
+           {
+            "count": 1,
+            "hasInterestRate": false,
+            "interestRate": 0,
+            "value": 9500,
+            "total": 9500,
+            "sellerMerchantInstallments": [
+             {
+              "id": "CHEDRAUIMX",
+              "count": 1,
+              "hasInterestRate": false,
+              "interestRate": 0,
+              "value": 9500,
+              "total": 9500
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "paymentSystem": "4",
+          "bin": null,
+          "paymentName": "Mastercard",
+          "paymentGroupName": "creditCardPaymentGroup",
+          "value": 9500,
+          "installments": [
+           {
+            "count": 1,
+            "hasInterestRate": false,
+            "interestRate": 0,
+            "value": 9500,
+            "total": 9500,
+            "sellerMerchantInstallments": [
+             {
+              "id": "CHEDRAUIMX",
+              "count": 1,
+              "hasInterestRate": false,
+              "interestRate": 0,
+              "value": 9500,
+              "total": 9500
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "paymentSystem": "16",
+          "bin": null,
+          "paymentName": "Vale",
+          "paymentGroupName": "giftCardPaymentGroup",
+          "value": 9500,
+          "installments": [
+           {
+            "count": 1,
+            "hasInterestRate": false,
+            "interestRate": 0,
+            "value": 9500,
+            "total": 9500,
+            "sellerMerchantInstallments": [
+             {
+              "id": "CHEDRAUIMX",
+              "count": 1,
+              "hasInterestRate": false,
+              "interestRate": 0,
+              "value": 9500,
+              "total": 9500
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "paymentSystem": "127",
+          "bin": null,
+          "paymentName": "MercadoPagoPro",
+          "paymentGroupName": "MercadoPagoProPaymentGroup",
+          "value": 9500,
+          "installments": [
+           {
+            "count": 1,
+            "hasInterestRate": false,
+            "interestRate": 0,
+            "value": 9500,
+            "total": 9500,
+            "sellerMerchantInstallments": [
+             {
+              "id": "CHEDRAUIMX",
+              "count": 1,
+              "hasInterestRate": false,
+              "interestRate": 0,
+              "value": 9500,
+              "total": 9500
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "paymentSystem": "174",
+          "bin": null,
+          "paymentName": "Aplazo Payment",
+          "paymentGroupName": "aplazoPaymentGroup",
+          "value": 9500,
+          "installments": [
+           {
+            "count": 1,
+            "hasInterestRate": false,
+            "interestRate": 0,
+            "value": 9500,
+            "total": 9500,
+            "sellerMerchantInstallments": [
+             {
+              "id": "CHEDRAUIMX",
+              "count": 1,
+              "hasInterestRate": false,
+              "interestRate": 0,
+              "value": 9500,
+              "total": 9500
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "paymentSystem": "201",
+          "bin": null,
+          "paymentName": "Pago contra entrega",
+          "paymentGroupName": "custom201PaymentGroupPaymentGroup",
+          "value": 9500,
+          "installments": [
+           {
+            "count": 1,
+            "hasInterestRate": false,
+            "interestRate": 0,
+            "value": 9500,
+            "total": 9500,
+            "sellerMerchantInstallments": [
+             {
+              "id": "CHEDRAUIMX",
+              "count": 1,
+              "hasInterestRate": false,
+              "interestRate": 0,
+              "value": 9500,
+              "total": 9500
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "paymentSystem": "204",
+          "bin": null,
+          "paymentName": "KUESKI",
+          "paymentGroupName": "custom204PaymentGroupPaymentGroup",
+          "value": 9500,
+          "installments": [
+           {
+            "count": 1,
+            "hasInterestRate": false,
+            "interestRate": 0,
+            "value": 9500,
+            "total": 9500,
+            "sellerMerchantInstallments": [
+             {
+              "id": "CHEDRAUIMX",
+              "count": 1,
+              "hasInterestRate": false,
+              "interestRate": 0,
+              "value": 9500,
+              "total": 9500
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "paymentSystem": "501",
+          "bin": null,
+          "paymentName": "Puntos BBVA",
+          "paymentGroupName": "customPrivate_501PaymentGroup",
+          "value": 9500,
+          "installments": [
+           {
+            "count": 1,
+            "hasInterestRate": false,
+            "interestRate": 0,
+            "value": 9500,
+            "total": 9500,
+            "sellerMerchantInstallments": [
+             {
+              "id": "CHEDRAUIMX",
+              "count": 1,
+              "hasInterestRate": false,
+              "interestRate": 0,
+              "value": 9500,
+              "total": 9500
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "paymentSystem": "502",
+          "bin": null,
+          "paymentName": "Vales",
+          "paymentGroupName": "customPrivate_502PaymentGroup",
+          "value": 9500,
+          "installments": [
+           {
+            "count": 1,
+            "hasInterestRate": false,
+            "interestRate": 0,
+            "value": 9500,
+            "total": 9500,
+            "sellerMerchantInstallments": [
+             {
+              "id": "CHEDRAUIMX",
+              "count": 1,
+              "hasInterestRate": false,
+              "interestRate": 0,
+              "value": 9500,
+              "total": 9500
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "paymentSystem": "708",
+          "bin": null,
+          "paymentName": "Mercado Credito",
+          "paymentGroupName": "MercadoCreditoPaymentGroup",
+          "value": 9500,
+          "installments": [
+           {
+            "count": 1,
+            "hasInterestRate": false,
+            "interestRate": 0,
+            "value": 9500,
+            "total": 9500,
+            "sellerMerchantInstallments": [
+             {
+              "id": "CHEDRAUIMX",
+              "count": 1,
+              "hasInterestRate": false,
+              "interestRate": 0,
+              "value": 9500,
+              "total": 9500
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "paymentSystem": "742",
+          "bin": null,
+          "paymentName": "PayPalCheckout",
+          "paymentGroupName": "PayPalCheckoutPaymentGroup",
+          "value": 9500,
+          "installments": [
+           {
+            "count": 1,
+            "hasInterestRate": false,
+            "interestRate": 0,
+            "value": 9500,
+            "total": 9500,
+            "sellerMerchantInstallments": [
+             {
+              "id": "CHEDRAUIMX",
+              "count": 1,
+              "hasInterestRate": false,
+              "interestRate": 0,
+              "value": 9500,
+              "total": 9500
+             }
+            ]
+           }
+          ]
+         }
+        ],
+        "paymentSystems": [
+         {
+          "id": 742,
+          "name": "PayPalCheckout",
+          "groupName": "PayPalCheckoutPaymentGroup",
+          "validator": null,
+          "stringId": "742",
+          "template": "PayPalCheckoutPaymentGroup-template",
+          "requiresDocument": false,
+          "isCustom": false,
+          "description": null,
+          "requiresAuthentication": false,
+          "dueDate": "2026-09-06T01:00:00Z",
+          "availablePayments": null
+         },
+         {
+          "id": 174,
+          "name": "Aplazo Payment",
+          "groupName": "aplazoPaymentGroup",
+          "validator": null,
+          "stringId": "174",
+          "template": "aplazoPaymentGroup-template",
+          "requiresDocument": false,
+          "isCustom": false,
+          "description": null,
+          "requiresAuthentication": false,
+          "dueDate": "2026-09-06T01:00:00Z",
+          "availablePayments": null
+         },
+         {
+          "id": 204,
+          "name": "KUESKI",
+          "groupName": "custom204PaymentGroupPaymentGroup",
+          "validator": null,
+          "stringId": "204",
+          "template": "custom204PaymentGroupPaymentGroup-template",
+          "requiresDocument": false,
+          "isCustom": true,
+          "description": "Método de pago con Kueski Pay",
+          "requiresAuthentication": false,
+          "dueDate": "2026-09-02T01:00:00Z",
+          "availablePayments": null
+         },
+         {
+          "id": 708,
+          "name": "Mercado Credito",
+          "groupName": "MercadoCreditoPaymentGroup",
+          "validator": null,
+          "stringId": "708",
+          "template": "MercadoCreditoPaymentGroup-template",
+          "requiresDocument": false,
+          "isCustom": false,
+          "description": null,
+          "requiresAuthentication": false,
+          "dueDate": "2026-09-06T01:00:00Z",
+          "availablePayments": null
+         },
+         {
+          "id": 127,
+          "name": "MercadoPagoPro",
+          "groupName": "MercadoPagoProPaymentGroup",
+          "validator": null,
+          "stringId": "127",
+          "template": "MercadoPagoProPaymentGroup-template",
+          "requiresDocument": false,
+          "isCustom": false,
+          "description": null,
+          "requiresAuthentication": false,
+          "dueDate": "2026-09-06T01:00:00Z",
+          "availablePayments": null
+         },
+         {
+          "id": 502,
+          "name": "Vales",
+          "groupName": "customPrivate_502PaymentGroup",
+          "validator": null,
+          "stringId": "502",
+          "template": "customPrivate_502PaymentGroup-template",
+          "requiresDocument": false,
+          "isCustom": true,
+          "description": "Vales",
+          "requiresAuthentication": false,
+          "dueDate": "2026-09-09T00:00:00Z",
+          "availablePayments": null
+         },
+         {
+          "id": 501,
+          "name": "Puntos BBVA",
+          "groupName": "customPrivate_501PaymentGroup",
+          "validator": null,
+          "stringId": "501",
+          "template": "customPrivate_501PaymentGroup-template",
+          "requiresDocument": false,
+          "isCustom": true,
+          "description": "Puntos BBVA",
+          "requiresAuthentication": false,
+          "dueDate": "2026-09-09T00:00:00Z",
+          "availablePayments": null
+         },
+         {
+          "id": 16,
+          "name": "Vale",
+          "groupName": "giftCardPaymentGroup",
+          "validator": null,
+          "stringId": "16",
+          "template": "giftCardPaymentGroup-template",
+          "requiresDocument": false,
+          "isCustom": false,
+          "description": null,
+          "requiresAuthentication": false,
+          "dueDate": "2026-09-06T01:00:00Z",
+          "availablePayments": null
+         },
+         {
+          "id": 1,
+          "name": "American Express",
+          "groupName": "creditCardPaymentGroup",
+          "validator": null,
+          "stringId": "1",
+          "template": "creditCardPaymentGroup-template",
+          "requiresDocument": false,
+          "isCustom": false,
+          "description": null,
+          "requiresAuthentication": false,
+          "dueDate": "2026-09-06T01:00:00Z",
+          "availablePayments": null
+         },
+         {
+          "id": 2,
+          "name": "Visa",
+          "groupName": "creditCardPaymentGroup",
+          "validator": null,
+          "stringId": "2",
+          "template": "creditCardPaymentGroup-template",
+          "requiresDocument": false,
+          "isCustom": false,
+          "description": null,
+          "requiresAuthentication": false,
+          "dueDate": "2026-09-06T01:00:00Z",
+          "availablePayments": null
+         },
+         {
+          "id": 4,
+          "name": "Mastercard",
+          "groupName": "creditCardPaymentGroup",
+          "validator": null,
+          "stringId": "4",
+          "template": "creditCardPaymentGroup-template",
+          "requiresDocument": false,
+          "isCustom": false,
+          "description": null,
+          "requiresAuthentication": false,
+          "dueDate": "2026-09-06T01:00:00Z",
+          "availablePayments": null
+         },
+         {
+          "id": 201,
+          "name": "Pago contra entrega",
+          "groupName": "custom201PaymentGroupPaymentGroup",
+          "validator": null,
+          "stringId": "201",
+          "template": "custom201PaymentGroupPaymentGroup-template",
+          "requiresDocument": false,
+          "isCustom": true,
+          "description": "Pagar al recibir el pedido",
+          "requiresAuthentication": false,
+          "dueDate": "2026-09-06T01:00:00Z",
+          "availablePayments": null
+         }
+        ],
+        "payments": [],
+        "giftCards": [],
+        "giftCardMessages": [],
+        "availableAccounts": [],
+        "availableTokens": []
+       }
+      }
+     }
+    ],
+    "Videos": [],
+    "estimatedDateArrival": null
+   }
+  ]
+ },
+ {
+  "productId": "3804650",
+  "productName": "Almendra Selecto Entera 180g",
+  "brand": "Selecto Brand",
+  "brandId": 6955,
+  "brandImageUrl": null,
+  "linkText": "almendra-selecto-entera-180g-3804650",
+  "productReference": "3804650",
+  "productReferenceCode": "3804650",
+  "categoryId": "10710",
+  "productTitle": "Almendra Selecto Entera 180g | Chedraui",
+  "metaTagDescription": "Prepara tu despensa en unos cuantos clics y descubre nuestra gran variedad de productos. ¡No salgas de casa, nosotros te llevamos el súper!",
+  "releaseDate": "2025-09-03T00:00:00Z",
+  "clusterHighlights": {},
+  "productClusters": {
+   "17026": "Festival de nuestras marcas",
+   "17126": "Productos Selecto",
+   "20043": "SelectoApp_BtnTopMenu"
+  },
+  "searchableClusters": {},
+  "categories": [
+   "/Supermercado/Despensa/Botanas y frutos secos/",
+   "/Supermercado/Despensa/",
+   "/Supermercado/"
+  ],
+  "categoriesIds": [
+   "/1/107/10710/",
+   "/1/107/",
+   "/1/"
+  ],
+  "link": "https://www.chedraui.com.mx/almendra-selecto-entera-180g-3804650/p",
+  "Benefits": [
+   "Almendras enteras"
+  ],
+  "Tipo de producto": [
+   "Cacahuates, Nueces y Semillas"
+  ],
+  "Contenido del empaque": [
+   "1 pieza de 180g"
+  ],
+  "Fraud Check": [
+   "FALSO"
+  ],
+  "Tipo de envío": [
+   "Restringido"
+  ],
+  "Benefits 3": [
+   "Delicioso sabor"
+  ],
+  "Benefits 2": [
+   "Selección natural"
+  ],
+  "Identificador Externo de Categoría": [
+   "103009003"
+  ],
+  "Máximo de venta": [
+   "12"
+  ],
+  "Descripción, Larga": [
+   "Prepara tu despensa en unos cuantos clics y descubre nuestra gran variedad de productos. ¡No salgas de casa, nosotros te llevamos el súper!"
+  ],
+  "MultiEan": [
+   "7501253682652"
+  ],
+  "Atributos de Especificación": [
+   "Benefits",
+   "Tipo de producto",
+   "Contenido del empaque",
+   "Fraud Check",
+   "Tipo de envío",
+   "Benefits 3",
+   "Benefits 2",
+   "Identificador Externo de Categoría",
+   "Máximo de venta",
+   "Descripción, Larga",
+   "MultiEan"
+  ],
+  "allSpecifications": [
+   "Benefits",
+   "Tipo de producto",
+   "Contenido del empaque",
+   "Fraud Check",
+   "Tipo de envío",
+   "Benefits 3",
+   "Benefits 2",
+   "Identificador Externo de Categoría",
+   "Máximo de venta",
+   "Descripción, Larga",
+   "MultiEan"
+  ],
+  "allSpecificationsGroups": [
+   "Atributos de Especificación"
+  ],
+  "description": "Almendra Selecto Entera 180g\n<div><br><b>Las imágenes del producto son únicamente de referencia, el diseños de etiquetas y el contenido (ml, L, Kg, g, piezas, etc) pueden cambiar y/o variar sin previo aviso.</b></div>",
+  "items": [
+   {
+    "itemId": "3804650",
+    "name": "Almendra Selecto Entera 180g",
+    "nameComplete": "Almendra Selecto Entera 180g",
+    "complementName": "",
+    "ean": "7501253682652",
+    "referenceId": [
+     {
+      "Key": "RefId",
+      "Value": "3804650"
+     }
+    ],
+    "measurementUnit": "un",
+    "unitMultiplier": 1.0,
+    "modalType": "ELECTRONICS",
+    "isKit": false,
+    "images": [
+     {
+      "imageId": "75754938",
+      "imageLabel": "7501253682652_00",
+      "imageTag": "<img src=\"~/arquivos/ids/75754938-#width#-#height#/7501253682652_00.jpg?v=639229395112500000\" width=\"#width#\" height=\"#height#\" alt=\"7501253682652_00\" id=\"\" />",
+      "imageUrl": "https://chedrauimx.vteximg.com.br/arquivos/ids/75754938/7501253682652_00.jpg?v=639229395112500000",
+      "imageText": "7501253682652_00",
+      "imageLastModified": "2026-08-21T20:05:11.2500000Z"
+     }
+    ],
+    "sellers": [
+     {
+      "sellerId": "1",
+      "sellerName": "Chedraui",
+      "addToCartLink": "https://www.chedraui.com.mx/checkout/cart/add?sku=3804650&qty=1&seller=1&sc=1&price=6500&cv=_&sc=1",
+      "sellerDefault": true,
+      "commertialOffer": {
+       "DeliverySlaSamplesPerRegion": {
+        "0": {
+         "DeliverySlaPerTypes": [],
+         "Region": null
+        }
+       },
+       "Installments": [
+        {
+         "Value": 65.0,
+         "InterestRate": 0.0,
+         "TotalValuePlusInterestRate": 65.0,
+         "NumberOfInstallments": 1,
+         "PaymentSystemName": "American Express",
+         "PaymentSystemGroupName": "creditCardPaymentGroup",
+         "Name": "American Express à vista"
+        },
+        {
+         "Value": 65.0,
+         "InterestRate": 0.0,
+         "TotalValuePlusInterestRate": 65.0,
+         "NumberOfInstallments": 1,
+         "PaymentSystemName": "Visa",
+         "PaymentSystemGroupName": "creditCardPaymentGroup",
+         "Name": "Visa à vista"
+        },
+        {
+         "Value": 65.0,
+         "InterestRate": 0.0,
+         "TotalValuePlusInterestRate": 65.0,
+         "NumberOfInstallments": 1,
+         "PaymentSystemName": "Mastercard",
+         "PaymentSystemGroupName": "creditCardPaymentGroup",
+         "Name": "Mastercard à vista"
+        },
+        {
+         "Value": 65.0,
+         "InterestRate": 0.0,
+         "TotalValuePlusInterestRate": 65.0,
+         "NumberOfInstallments": 1,
+         "PaymentSystemName": "Vale",
+         "PaymentSystemGroupName": "giftCardPaymentGroup",
+         "Name": "Vale à vista"
+        },
+        {
+         "Value": 65.0,
+         "InterestRate": 0.0,
+         "TotalValuePlusInterestRate": 65.0,
+         "NumberOfInstallments": 1,
+         "PaymentSystemName": "MercadoPagoPro",
+         "PaymentSystemGroupName": "MercadoPagoProPaymentGroup",
+         "Name": "MercadoPagoPro à vista"
+        },
+        {
+         "Value": 65.0,
+         "InterestRate": 0.0,
+         "TotalValuePlusInterestRate": 65.0,
+         "NumberOfInstallments": 1,
+         "PaymentSystemName": "Aplazo Payment",
+         "PaymentSystemGroupName": "aplazoPaymentGroup",
+         "Name": "Aplazo Payment à vista"
+        },
+        {
+         "Value": 65.0,
+         "InterestRate": 0.0,
+         "TotalValuePlusInterestRate": 65.0,
+         "NumberOfInstallments": 1,
+         "PaymentSystemName": "Pago contra entrega",
+         "PaymentSystemGroupName": "custom201PaymentGroupPaymentGroup",
+         "Name": "Pago contra entrega à vista"
+        },
+        {
+         "Value": 65.0,
+         "InterestRate": 0.0,
+         "TotalValuePlusInterestRate": 65.0,
+         "NumberOfInstallments": 1,
+         "PaymentSystemName": "KUESKI",
+         "PaymentSystemGroupName": "custom204PaymentGroupPaymentGroup",
+         "Name": "KUESKI à vista"
+        },
+        {
+         "Value": 65.0,
+         "InterestRate": 0.0,
+         "TotalValuePlusInterestRate": 65.0,
+         "NumberOfInstallments": 1,
+         "PaymentSystemName": "Puntos BBVA",
+         "PaymentSystemGroupName": "customPrivate_501PaymentGroup",
+         "Name": "Puntos BBVA à vista"
+        },
+        {
+         "Value": 65.0,
+         "InterestRate": 0.0,
+         "TotalValuePlusInterestRate": 65.0,
+         "NumberOfInstallments": 1,
+         "PaymentSystemName": "Vales",
+         "PaymentSystemGroupName": "customPrivate_502PaymentGroup",
+         "Name": "Vales à vista"
+        },
+        {
+         "Value": 65.0,
+         "InterestRate": 0.0,
+         "TotalValuePlusInterestRate": 65.0,
+         "NumberOfInstallments": 1,
+         "PaymentSystemName": "Mercado Credito",
+         "PaymentSystemGroupName": "MercadoCreditoPaymentGroup",
+         "Name": "Mercado Credito à vista"
+        },
+        {
+         "Value": 65.0,
+         "InterestRate": 0.0,
+         "TotalValuePlusInterestRate": 65.0,
+         "NumberOfInstallments": 1,
+         "PaymentSystemName": "PayPalCheckout",
+         "PaymentSystemGroupName": "PayPalCheckoutPaymentGroup",
+         "Name": "PayPalCheckout à vista"
+        }
+       ],
+       "DiscountHighLight": [],
+       "GiftSkuIds": [],
+       "Teasers": [],
+       "PromotionTeasers": [],
+       "BuyTogether": [],
+       "ItemMetadataAttachment": [],
+       "Price": 65.0,
+       "ListPrice": 65.0,
+       "PriceWithoutDiscount": 65.0,
+       "FullSellingPrice": 65.0,
+       "PriceToken": "eyJhbGciOiJFUzI1NiIsImtpZCI6IjMzZmNmZjA5LTZlNTUtNDFjYi05ZDQyLWIxYmY1YmI1YWRmNCIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InByaWNlIjo2NTAwLCJwcmljZVdpdGhvdXREaXNjb3VudCI6NjUwMCwic2VsbGVyIjoiMSIsImlkIjoiMzgwNDY1MCIsImFjY291bnROYW1lIjoiY2hlZHJhdWlteCIsInNhbGVzQ2hhbm5lbCI6IjEifSwiZXhwIjoxNzg4MDU0NDY0LCJpYXQiOjE3ODgwNTI2NjQsImp0aSI6IjhkYzFjMTEwLWYyMDEtNDJkMC1hN2I2LWU5ZDE5MThiZmMzZCIsImlzcyI6InNlc3Npb24vZGF0YS1zaWduZXIifQ.g47vWE5eGN4JcKk29i4ilJp9vDks3MZkwBcoQy30ncmxcp4CwVQiJsIs0wWLTCZNdVfik4xGine-XwLIGdnsmg",
+       "RewardValue": 0.0,
+       "PriceValidUntil": "2027-08-30T00:00:00Z",
+       "AvailableQuantity": 99999,
+       "IsAvailable": true,
+       "Tax": 0.0,
+       "DeliverySlaSamples": [
+        {
+         "DeliverySlaPerTypes": [],
+         "Region": null
+        }
+       ],
+       "GetInfoErrorMessage": null,
+       "CacheVersionUsedToCallCheckout": "_",
+       "PaymentOptions": {
+        "installmentOptions": [
+         {
+          "paymentSystem": "1",
+          "bin": null,
+          "paymentName": "American Express",
+          "paymentGroupName": "creditCardPaymentGroup",
+          "value": 6500,
+          "installments": [
+           {
+            "count": 1,
+            "hasInterestRate": false,
+            "interestRate": 0,
+            "value": 6500,
+            "total": 6500,
+            "sellerMerchantInstallments": [
+             {
+              "id": "CHEDRAUIMX",
+              "count": 1,
+              "hasInterestRate": false,
+              "interestRate": 0,
+              "value": 6500,
+              "total": 6500
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "paymentSystem": "2",
+          "bin": null,
+          "paymentName": "Visa",
+          "paymentGroupName": "creditCardPaymentGroup",
+          "value": 6500,
+          "installments": [
+           {
+            "count": 1,
+            "hasInterestRate": false,
+            "interestRate": 0,
+            "value": 6500,
+            "total": 6500,
+            "sellerMerchantInstallments": [
+             {
+              "id": "CHEDRAUIMX",
+              "count": 1,
+              "hasInterestRate": false,
+              "interestRate": 0,
+              "value": 6500,
+              "total": 6500
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "paymentSystem": "4",
+          "bin": null,
+          "paymentName": "Mastercard",
+          "paymentGroupName": "creditCardPaymentGroup",
+          "value": 6500,
+          "installments": [
+           {
+            "count": 1,
+            "hasInterestRate": false,
+            "interestRate": 0,
+            "value": 6500,
+            "total": 6500,
+            "sellerMerchantInstallments": [
+             {
+              "id": "CHEDRAUIMX",
+              "count": 1,
+              "hasInterestRate": false,
+              "interestRate": 0,
+              "value": 6500,
+              "total": 6500
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "paymentSystem": "16",
+          "bin": null,
+          "paymentName": "Vale",
+          "paymentGroupName": "giftCardPaymentGroup",
+          "value": 6500,
+          "installments": [
+           {
+            "count": 1,
+            "hasInterestRate": false,
+            "interestRate": 0,
+            "value": 6500,
+            "total": 6500,
+            "sellerMerchantInstallments": [
+             {
+              "id": "CHEDRAUIMX",
+              "count": 1,
+              "hasInterestRate": false,
+              "interestRate": 0,
+              "value": 6500,
+              "total": 6500
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "paymentSystem": "127",
+          "bin": null,
+          "paymentName": "MercadoPagoPro",
+          "paymentGroupName": "MercadoPagoProPaymentGroup",
+          "value": 6500,
+          "installments": [
+           {
+            "count": 1,
+            "hasInterestRate": false,
+            "interestRate": 0,
+            "value": 6500,
+            "total": 6500,
+            "sellerMerchantInstallments": [
+             {
+              "id": "CHEDRAUIMX",
+              "count": 1,
+              "hasInterestRate": false,
+              "interestRate": 0,
+              "value": 6500,
+              "total": 6500
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "paymentSystem": "174",
+          "bin": null,
+          "paymentName": "Aplazo Payment",
+          "paymentGroupName": "aplazoPaymentGroup",
+          "value": 6500,
+          "installments": [
+           {
+            "count": 1,
+            "hasInterestRate": false,
+            "interestRate": 0,
+            "value": 6500,
+            "total": 6500,
+            "sellerMerchantInstallments": [
+             {
+              "id": "CHEDRAUIMX",
+              "count": 1,
+              "hasInterestRate": false,
+              "interestRate": 0,
+              "value": 6500,
+              "total": 6500
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "paymentSystem": "201",
+          "bin": null,
+          "paymentName": "Pago contra entrega",
+          "paymentGroupName": "custom201PaymentGroupPaymentGroup",
+          "value": 6500,
+          "installments": [
+           {
+            "count": 1,
+            "hasInterestRate": false,
+            "interestRate": 0,
+            "value": 6500,
+            "total": 6500,
+            "sellerMerchantInstallments": [
+             {
+              "id": "CHEDRAUIMX",
+              "count": 1,
+              "hasInterestRate": false,
+              "interestRate": 0,
+              "value": 6500,
+              "total": 6500
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "paymentSystem": "204",
+          "bin": null,
+          "paymentName": "KUESKI",
+          "paymentGroupName": "custom204PaymentGroupPaymentGroup",
+          "value": 6500,
+          "installments": [
+           {
+            "count": 1,
+            "hasInterestRate": false,
+            "interestRate": 0,
+            "value": 6500,
+            "total": 6500,
+            "sellerMerchantInstallments": [
+             {
+              "id": "CHEDRAUIMX",
+              "count": 1,
+              "hasInterestRate": false,
+              "interestRate": 0,
+              "value": 6500,
+              "total": 6500
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "paymentSystem": "501",
+          "bin": null,
+          "paymentName": "Puntos BBVA",
+          "paymentGroupName": "customPrivate_501PaymentGroup",
+          "value": 6500,
+          "installments": [
+           {
+            "count": 1,
+            "hasInterestRate": false,
+            "interestRate": 0,
+            "value": 6500,
+            "total": 6500,
+            "sellerMerchantInstallments": [
+             {
+              "id": "CHEDRAUIMX",
+              "count": 1,
+              "hasInterestRate": false,
+              "interestRate": 0,
+              "value": 6500,
+              "total": 6500
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "paymentSystem": "502",
+          "bin": null,
+          "paymentName": "Vales",
+          "paymentGroupName": "customPrivate_502PaymentGroup",
+          "value": 6500,
+          "installments": [
+           {
+            "count": 1,
+            "hasInterestRate": false,
+            "interestRate": 0,
+            "value": 6500,
+            "total": 6500,
+            "sellerMerchantInstallments": [
+             {
+              "id": "CHEDRAUIMX",
+              "count": 1,
+              "hasInterestRate": false,
+              "interestRate": 0,
+              "value": 6500,
+              "total": 6500
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "paymentSystem": "708",
+          "bin": null,
+          "paymentName": "Mercado Credito",
+          "paymentGroupName": "MercadoCreditoPaymentGroup",
+          "value": 6500,
+          "installments": [
+           {
+            "count": 1,
+            "hasInterestRate": false,
+            "interestRate": 0,
+            "value": 6500,
+            "total": 6500,
+            "sellerMerchantInstallments": [
+             {
+              "id": "CHEDRAUIMX",
+              "count": 1,
+              "hasInterestRate": false,
+              "interestRate": 0,
+              "value": 6500,
+              "total": 6500
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "paymentSystem": "742",
+          "bin": null,
+          "paymentName": "PayPalCheckout",
+          "paymentGroupName": "PayPalCheckoutPaymentGroup",
+          "value": 6500,
+          "installments": [
+           {
+            "count": 1,
+            "hasInterestRate": false,
+            "interestRate": 0,
+            "value": 6500,
+            "total": 6500,
+            "sellerMerchantInstallments": [
+             {
+              "id": "CHEDRAUIMX",
+              "count": 1,
+              "hasInterestRate": false,
+              "interestRate": 0,
+              "value": 6500,
+              "total": 6500
+             }
+            ]
+           }
+          ]
+         }
+        ],
+        "paymentSystems": [
+         {
+          "id": 742,
+          "name": "PayPalCheckout",
+          "groupName": "PayPalCheckoutPaymentGroup",
+          "validator": null,
+          "stringId": "742",
+          "template": "PayPalCheckoutPaymentGroup-template",
+          "requiresDocument": false,
+          "isCustom": false,
+          "description": null,
+          "requiresAuthentication": false,
+          "dueDate": "2026-09-06T01:00:00Z",
+          "availablePayments": null
+         },
+         {
+          "id": 174,
+          "name": "Aplazo Payment",
+          "groupName": "aplazoPaymentGroup",
+          "validator": null,
+          "stringId": "174",
+          "template": "aplazoPaymentGroup-template",
+          "requiresDocument": false,
+          "isCustom": false,
+          "description": null,
+          "requiresAuthentication": false,
+          "dueDate": "2026-09-06T01:00:00Z",
+          "availablePayments": null
+         },
+         {
+          "id": 204,
+          "name": "KUESKI",
+          "groupName": "custom204PaymentGroupPaymentGroup",
+          "validator": null,
+          "stringId": "204",
+          "template": "custom204PaymentGroupPaymentGroup-template",
+          "requiresDocument": false,
+          "isCustom": true,
+          "description": "Método de pago con Kueski Pay",
+          "requiresAuthentication": false,
+          "dueDate": "2026-09-02T01:00:00Z",
+          "availablePayments": null
+         },
+         {
+          "id": 708,
+          "name": "Mercado Credito",
+          "groupName": "MercadoCreditoPaymentGroup",
+          "validator": null,
+          "stringId": "708",
+          "template": "MercadoCreditoPaymentGroup-template",
+          "requiresDocument": false,
+          "isCustom": false,
+          "description": null,
+          "requiresAuthentication": false,
+          "dueDate": "2026-09-06T01:00:00Z",
+          "availablePayments": null
+         },
+         {
+          "id": 127,
+          "name": "MercadoPagoPro",
+          "groupName": "MercadoPagoProPaymentGroup",
+          "validator": null,
+          "stringId": "127",
+          "template": "MercadoPagoProPaymentGroup-template",
+          "requiresDocument": false,
+          "isCustom": false,
+          "description": null,
+          "requiresAuthentication": false,
+          "dueDate": "2026-09-06T01:00:00Z",
+          "availablePayments": null
+         },
+         {
+          "id": 502,
+          "name": "Vales",
+          "groupName": "customPrivate_502PaymentGroup",
+          "validator": null,
+          "stringId": "502",
+          "template": "customPrivate_502PaymentGroup-template",
+          "requiresDocument": false,
+          "isCustom": true,
+          "description": "Vales",
+          "requiresAuthentication": false,
+          "dueDate": "2026-09-09T00:00:00Z",
+          "availablePayments": null
+         },
+         {
+          "id": 501,
+          "name": "Puntos BBVA",
+          "groupName": "customPrivate_501PaymentGroup",
+          "validator": null,
+          "stringId": "501",
+          "template": "customPrivate_501PaymentGroup-template",
+          "requiresDocument": false,
+          "isCustom": true,
+          "description": "Puntos BBVA",
+          "requiresAuthentication": false,
+          "dueDate": "2026-09-09T00:00:00Z",
+          "availablePayments": null
+         },
+         {
+          "id": 16,
+          "name": "Vale",
+          "groupName": "giftCardPaymentGroup",
+          "validator": null,
+          "stringId": "16",
+          "template": "giftCardPaymentGroup-template",
+          "requiresDocument": false,
+          "isCustom": false,
+          "description": null,
+          "requiresAuthentication": false,
+          "dueDate": "2026-09-06T01:00:00Z",
+          "availablePayments": null
+         },
+         {
+          "id": 1,
+          "name": "American Express",
+          "groupName": "creditCardPaymentGroup",
+          "validator": null,
+          "stringId": "1",
+          "template": "creditCardPaymentGroup-template",
+          "requiresDocument": false,
+          "isCustom": false,
+          "description": null,
+          "requiresAuthentication": false,
+          "dueDate": "2026-09-06T01:00:00Z",
+          "availablePayments": null
+         },
+         {
+          "id": 2,
+          "name": "Visa",
+          "groupName": "creditCardPaymentGroup",
+          "validator": null,
+          "stringId": "2",
+          "template": "creditCardPaymentGroup-template",
+          "requiresDocument": false,
+          "isCustom": false,
+          "description": null,
+          "requiresAuthentication": false,
+          "dueDate": "2026-09-06T01:00:00Z",
+          "availablePayments": null
+         },
+         {
+          "id": 4,
+          "name": "Mastercard",
+          "groupName": "creditCardPaymentGroup",
+          "validator": null,
+          "stringId": "4",
+          "template": "creditCardPaymentGroup-template",
+          "requiresDocument": false,
+          "isCustom": false,
+          "description": null,
+          "requiresAuthentication": false,
+          "dueDate": "2026-09-06T01:00:00Z",
+          "availablePayments": null
+         },
+         {
+          "id": 201,
+          "name": "Pago contra entrega",
+          "groupName": "custom201PaymentGroupPaymentGroup",
+          "validator": null,
+          "stringId": "201",
+          "template": "custom201PaymentGroupPaymentGroup-template",
+          "requiresDocument": false,
+          "isCustom": true,
+          "description": "Pagar al recibir el pedido",
+          "requiresAuthentication": false,
+          "dueDate": "2026-09-06T01:00:00Z",
+          "availablePayments": null
+         }
+        ],
+        "payments": [],
+        "giftCards": [],
+        "giftCardMessages": [],
+        "availableAccounts": [],
+        "availableTokens": []
+       }
+      }
+     }
+    ],
+    "Videos": [],
+    "estimatedDateArrival": null
+   }
+  ]
+ }
+]
