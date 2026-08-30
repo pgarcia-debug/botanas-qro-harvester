@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "botanas-dashboard",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["run", "start", "--prefix", "C:/Users/pareg/AppData/Local/Temp/claude/C--Users-pareg-Documents-Desarrollo-SS/2a417889-257d-46ad-b0d4-faa0c12f2124/scratchpad/dashboard"],
+      "port": 3000
+    }
+  ]
+}

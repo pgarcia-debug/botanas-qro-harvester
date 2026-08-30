@@ -5,3 +5,7 @@ __pycache__/
 venv/
 *.egg-info/
 .pytest_cache/
+
+# Node / Next.js (dashboard/)
+node_modules/
+.next/

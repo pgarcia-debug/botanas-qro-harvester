@@ -107,6 +107,6 @@ where e.prev_price_sale is not null
   and e.price_sale <> e.prev_price_sale
 order by abs(e.price_sale - e.prev_price_sale) desc;
 
-comment on view v_price_movements_7d is 'Cambios de precio (price_sale) de los últimos 7 días, ordenados por magnitud absoluta del cambio. "Top 30 movimientos" = SELECT * FROM v_price_movements_7d LIMIT 30.';
+comment on view v_price_movements_7d is 'Cambios de precio (price_sale) de los últimos 7 días, ordenados por magnitud absoluta del cambio. "Top 30 movimientos" = SELECT * FROM v_price_movements_7d LIMIT 30. NOTA: ver migrations/0005_fix_movements_view_sort.sql — el ORDER BY interno de la vista no se preserva de forma confiable al consultarla vía REST/PostgREST con su propio order=, se agregó ahí una columna explícita para eso.';
 
 commit;
